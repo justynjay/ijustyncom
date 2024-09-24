@@ -46,12 +46,12 @@
 
 .link-apple {
   background-color: #FF0000;
-  background: linear-gradient(90deg, #FF0000, #E60000, #FF0000);
+  background: linear-gradient(90deg, #FF0000, #DC0000, #FF0000);
 }
 
 .link-link {
-  background-color: #323232;
-  background: linear-gradient(90deg, #000000, #323232, #000000);
+  background-color: #1E1E1E;
+  background: linear-gradient(90deg, #1E1E1E, #050505, #1E1E1E);
 }
 
 h1 {
