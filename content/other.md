@@ -12,6 +12,6 @@ Microblog of my favorite things in pop culture. Mostly reblogs. Viewer discretio
 <br><br><br>
 <h3><a href="/apple-music" target="_blank">Music &#8599;</a></h3>
 <h4>@ijustyn</h4>
-My listening profile on Apple Music. My carefully created playlists are a perfection encapsulation of my music tastes over the past decade. I continuously update my playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!
+My listening profile on Apple Music. A collection of carefully created playlists that are a perfect encapsulation of my music tastes over the past decade. I continuously update the playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!
 <br><br><br>
 </center>
