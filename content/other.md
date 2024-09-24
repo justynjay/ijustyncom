@@ -2,15 +2,13 @@
 title: 'Other Accounts'
 ---
 You can also find me at these locations if you are interested!
-[Tumblr](https://tumblr.ijustyn.com)
-[Gaming](/gaming)
+<br><br>
+<center>
+<h1><a href="/gaming">Gaming</a>
+<br><br>
+<a href="https://tumblr.ijustyn.com">Tumblr</a>
+</center>
 
-# [JJ](jjay.org)
-<br>
-</section>
-<section class="flex flex-col flex-wrap min-w-full mt-4 sm:min-w-0">
-{{< link link >}}
-{{< link tumblr >}}
 
 
 
