@@ -16,9 +16,12 @@ disableKinds = ["taxonomy", "term"]
   links = [
 
      { instagram = "https://instagram.com/ijustyn" },
-     { mastodon = "https://masto.ai/@ijustyn" },
-     { threads = { href = "https://threads.net/ijustyn", icon = "threads", text = "Threads" } },
-     { apple = { href = "https://jjay.org/tip", text = "Pay", title = "Tip @ijustyn", icon = "apple" } },
+     { threads = "https://threads.net/ijustyn" },
+     { mastodon = "https://masto.ai/@ijustyn" },     
+     { link = { href = "/gaming", text = "Gaming" } },
+     { apple = { href = "/tip", text = "Pay", title = "Tip @ijustyn" } },
+     
+    #  { link = { href = "/tip", text = "Pay", title = "Tip @ijustyn", icon = "apple" } },
 
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
