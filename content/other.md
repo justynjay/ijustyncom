@@ -7,7 +7,9 @@ You can also find me at these locations if you are interested!
 </section>
 <section class="flex flex-col flex-wrap min-w-full mt-4 sm:min-w-0">
 {{< link link >}}
-[{{< link tumblr >}}](https://tumblr.ijustyn.com)
+[Gaming](/gaming)
+{{< link tumblr >}}
+[Tumblr](https://tumblr.ijustyn.com)
 
 
 
