@@ -19,15 +19,20 @@
 
 
 h1 {
-  font-family: DIN Alternate;
+  font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   letter-spacing: 10px;
-  font-size: 150px;
 }
 h2 {
-  font-family: DIN Alternate;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   letter-spacing: 2px;
 }
 
+h1, h2 {
+  font-size: 150%;
+}
+p { 
+  font-size: 110%;  
+}
 
 
 @media (prefers-color-scheme: dark) {
