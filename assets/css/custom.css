@@ -104,7 +104,7 @@ p {
 
 .hover\:decoration-primary-400:hover {
   text-decoration-color: #ff2628;
-
+}
 
 
 @media (prefers-color-scheme: dark) {
