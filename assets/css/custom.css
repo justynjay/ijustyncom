@@ -57,11 +57,9 @@
 .link-link {
   background-color: #1E1E1E;
   background: linear-gradient(90deg, 
-	#0F0F0F 0%, 
-	#1E1E1E 35%,
-	#1E1E1E 50%, 
-	#1E1E1E 65%,
-	#0F0F0F 100%);
+	#1E1E1E 0%, 
+	#0F0F0F 50%, 
+	#1E1E1E 100%);
 }
 
 h1 {
