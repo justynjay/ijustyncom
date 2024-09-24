@@ -27,7 +27,12 @@
 }
 .link-mastodon {
   background-color: #7E22FF;
-  background: linear-gradient(90deg, #4222FF, #7E22FF, #4222FF);
+  background: linear-gradient(90deg,  
+    #4222FF 0%,
+    #7E22FF 35%,
+    #7E22FF 50%,
+    #7E22FF 65%,
+    #4222FF 100%);
 }
 .link-instagram {
   background-color: #c13584;
@@ -51,7 +56,12 @@
 
 .link-link {
   background-color: #1E1E1E;
-  background: linear-gradient(90deg, #1E1E1E, #0F0F0F, #1E1E1E);
+  background: linear-gradient(90deg, 
+	#0F0F0F 0%, 
+	#1E1E1E 35%,
+	#1E1E1E 50%, 
+	#1E1E1E 65%,
+	#0F0F0F 100%);
 }
 
 h1 {
