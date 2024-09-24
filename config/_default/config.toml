@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
      { instagram = "https://instagram.com/ijustyn" },
      { threads = "https://threads.net/ijustyn" },
      { mastodon = "https://masto.ai/@ijustyn" },     
-     { link = { href = "/gaming", text = "Gaming" } },
+     { link = { href = "/gaming", text = "Gaming", target = "_self" } },
      { apple = { href = "/tip", text = "Pay", title = "Tip @ijustyn" } },
      
     #  { link = { href = "/tip", text = "Pay", title = "Tip @ijustyn", icon = "apple" } },
@@ -60,7 +60,7 @@ disableKinds = ["taxonomy", "term"]
     # { telegram = "https://t.me/username" },
     # { threads = "https://threads.com/username" },
     # { tiktok = "https://tiktok.com/@username" },
-    # { tumblr = "https://username.tumblr.com" },
+    # { tumblr = "https://ijustyn.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
