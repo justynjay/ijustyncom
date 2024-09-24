@@ -1,16 +1,12 @@
 ---
 title: 'Other Accounts'
 ---
-You can also find me at these locations if you are interested!
+<center><br>You can also find me at these locations if you are interested!
+<h3><a href="/gaming">Gaming</a></h3>
+<h4>@justynjay</h4>
+I stream PS5 on Twitch and YouTube. I mostly play Spider-Man and GTA.
 <br><br>
-<center>
-<h1><a href="/gaming">Gaming</a>
-<br><br>
-<a href="https://tumblr.ijustyn.com">Tumblr</a>
+<h3><a href="/tumblr">Tumblr</a></h3>
+<h4>@ijustyn</h4>
+Microblog of my favorite things in pop culture. Mostly reblogs. Viewer discretion advised.
 </center>
-
-
-
-
-
-

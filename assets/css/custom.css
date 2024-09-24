@@ -1,22 +1,19 @@
-.link-other {
-  background: rgb(131, 58, 180);
+.link-threads {
+  background: rgb(252, 176, 69);
   background: linear-gradient(
-    90deg,
-    rgba(131, 58, 180, 1) 0%,
-    rgba(253, 29, 29, 1) 50%,
-    rgba(252, 176, 69, 1) 100%
+    135deg,
+    rgba(252, 176, 69, 1) 0%,
+    rgba(253, 29, 29, 1) 35%,
+    rgba(131, 58, 255, 1) 100%
+  );
+}
+
+.link-other {
+  background: rgb(0, 0, 0);
   );
 }
 
 .link-link {
-  background: rgb(0, 106, 255);
-  );
-}
-.link-link {
-  background: rgb(0, 00, 00);
-  );
-}
-.link-threads {
   background: rgb(33, 33, 33);
 }
 .link-apple {
@@ -24,6 +21,27 @@
 }
 .link-mastodon {
   background: rgb(126 34 206);
+}
+.link-mastodon {
+  background: rgb(126 34 255);
+}
+.link-mastodon {
+  background-color: #7E22FF;
+  background: linear-gradient(90deg, #7E22FF, #4222FF, #7E22FF);
+}
+.link-instagram {
+  background-color: #c13584;
+  background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+}
+
+.link-instagram {
+  background: rgb(131, 58, 255);
+  background: linear-gradient(
+    135deg,
+    rgba(131, 58, 255, 1) 0%,
+    rgba(253, 29,  29, 1) 50%,
+    rgba(252,  0, 180, 1) 100%
+  );
 }
 
 h1 {
@@ -36,8 +54,18 @@ h2 {
   letter-spacing: 2px;
   color: rgb(255, 00, 00);
 }
+h3, h3.a {
+  font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  letter-spacing: 3px;
+  color: rgb(255, 00, 00);
+}
+h4 {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  letter-spacing: 2px;
+  color: rgb(255, 00, 00);
+}
 
-h1 {
+h1, h2, h3 {
   font-size: 150%;
 }
 
