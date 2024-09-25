@@ -12,12 +12,49 @@
 
 
 
+
 .link-instagram {
-  background-color: #c13584;
-  background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+  background: var(--jPink);
+  background: linear-gradient(
+    135deg,
+    var(--jPurple) -10%,
+    var(--jPink) 30%,
+    var(--jRed) 70%,
+    var(--jYellow) 110%
+  );
+}
+.link-threads {
+  background: var(--jOrange);
+  background: linear-gradient(
+    45deg,
+    var(--jPurple) -10%,
+    var(--jPink) 30%,
+    var(--jRed) 70%,
+    var(--jYellow) 110%
+  );
 }
 
 
+.link-instagram {
+  background: var(--jPink);
+  background: linear-gradient(
+    135deg,
+    var(--jPurple) 0%,
+    var(--jPink) 50%,
+    var(--jRed) 100%,
+    var(--jYellow) 150%
+  );
+}
+.link-threads {
+  background: var(--jOrange);
+  background: linear-gradient(
+    135deg,
+    var(--jPurple) -25%,
+    var(--jPink) 25%,
+    var(--jRed) 75%,
+    var(--jYellow) 125%
+  );
+}
 
 
 .link-instagram {
@@ -32,21 +69,23 @@
 .link-threads {
   background: var(--jOrange);
   background: linear-gradient(
-    135deg,
+    45deg,
     var(--jYellow) 5%,
-    var(--jOrange) 30%,
-    var(--jRed) 60%,
-    var(--jPink) 105%
+    var(--jRed) 45%,
+    var(--jPink) 85%,
+    var(--jPurple) 125%
   );
 }
+
+
 .link-mastodon {
   background-color: var(--jPurple);
   background: linear-gradient(
     90deg,  
+    var(--jBlue),
     var(--jPurple),
-    var(--jBlue),
-    var(--jBlue),
-    var(--jPurple)
+    var(--jPurple),
+    var(--jBlue)
   );
 }
 .link-link {
@@ -68,7 +107,6 @@
     var(--jRed)
   );
 }
-
 
 
 
