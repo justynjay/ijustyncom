@@ -64,7 +64,6 @@
     var(--jBlack),
     var(--jGrey),
     var(--jGrey),
-    var(--jGrey),
     var(--jBlack)
   );
 }
@@ -73,8 +72,6 @@
   background: linear-gradient(
     90deg,  
     red,
-    var(--jRed),
-    var(--jRed),
     var(--jRed),
     red
   );
