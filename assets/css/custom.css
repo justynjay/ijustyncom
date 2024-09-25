@@ -32,8 +32,8 @@
   background: linear-gradient(
     135deg,
     var(--jPurple),
-    var(--jRed),
-    var(--jPink)
+    var(--jPink),
+    var(--jRed)
   );
 }
 .link-threads {
@@ -42,19 +42,19 @@
     135deg,
     var(--jYellow) 5%,
     var(--jOrange) 30%,
-    var(--jRed) 50%,
-    var(--jPurple) 105%
+    var(--jRed) 60%,
+    var(--jPink) 105%
   );
 }
 .link-mastodon {
   background-color: var(--jPurple);
   background: linear-gradient(
     90deg,  
-    var(--jBlue) 0%,
-    var(--jPurple) 30%,
-    var(--jPurple) 50%,
-    var(--jPurple) 70%,
-    var(--jBlue) 100%
+    var(--jBlue),
+    var(--jPurple),
+    var(--jPurple),
+    var(--jPurple),
+    var(--jBlue)
   );
 }
 .link-link {
@@ -80,32 +80,30 @@
 
 
 
-h1 {
+h1, h3, h3.a {
   font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  letter-spacing: 8px;
+}
+h2, h4, .text-neutral-500 {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+h1 {
+  letter-spacing: 8px;
+}
 h2 {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   letter-spacing: 2px;
-  color: var(--jRed);
 }
 h3, h3.a {
-  font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  letter-spacing: 3px;
-  color: var(--jRed);
+  letter-spacing: 4px;
 }
-h4 {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  letter-spacing: 0px;
-  color: var(--jRed);
+h4, .text-neutral-500 {
+  letter-spacing: 1px;
 }
-h1, h2, h3 {
-  font-size: 150%;
-}
+
 p { 
   font-size: 110%;  
 }
+
 .prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
   color: var(--jRed);
   text-decoration: none;
@@ -116,7 +114,6 @@ p {
   background-color: rgba(0, 0, 0, 0);
 }
 .hover\:text-primary-500:hover {
-  --tw-text-opacity: 1;
   color: var(--jRed);
 }
 .hover\:underline:hover {
@@ -125,10 +122,7 @@ p {
 .hover\:decoration-primary-400:hover {
   text-decoration-color: var(--jRed);
 }
-.text-neutral-500 { 
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  letter-spacing: 0px;
-}
+
 
 
 
