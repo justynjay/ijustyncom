@@ -61,19 +61,20 @@
   background: var(--jPink);
   background: linear-gradient(
     135deg,
-    var(--jPurple),
-    var(--jPink),
-    var(--jRed)
+    var(--jPurple) 0%,
+    var(--jPink) 50%,
+    var(--jRed) 100%,
+    var(--jYellow) 150%
   );
 }
 .link-threads {
   background: var(--jOrange);
   background: linear-gradient(
     135deg,
-    var(--jYellow) 5%,
-    var(--jRed) 45%,
-    var(--jPink) 85%,
-    var(--jPurple) 125%
+    var(--jYellow) 0%,
+    var(--jRed) 40%,
+    var(--jPink) 80%,
+    var(--jPurple) 120%
   );
 }
 
@@ -85,10 +86,11 @@
     var(--jBlue),
     var(--jPurple),
     var(--jPurple),
+    var(--jPurple),
     var(--jBlue)
   );
 }
-.link-link {
+.link-more {
   background-color: var(--jGrey);
   background: linear-gradient(
     90deg, 
@@ -98,7 +100,7 @@
     var(--jGrey)
   );
 }
-.link-apple {
+.link-pay {
   background-color: var(--jRed);
   background: linear-gradient(
     90deg,  
