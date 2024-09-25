@@ -72,9 +72,9 @@
   background: linear-gradient(
     135deg,
     var(--jYellow) 0%,
-    var(--jRed) 40%,
-    var(--jPink) 80%,
-    var(--jPurple) 120%
+    var(--jRed) 50%,
+    var(--jPink) 100%,
+    var(--jPurple) 150%
   );
 }
 
