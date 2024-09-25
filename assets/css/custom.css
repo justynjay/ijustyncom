@@ -51,10 +51,11 @@
   background: linear-gradient(
     90deg,  
     var(--jBlue) 0%,
-    var(--jPurple) 35%,
+    var(--jPurple) 30%,
     var(--jPurple) 50%,
-    var(--jPurple) 65%,
-    var(--jBlue) 100%);
+    var(--jPurple) 70%,
+    var(--jBlue) 100%
+  );
 }
 .link-link {
   background-color: var(--jGrey);
@@ -64,17 +65,17 @@
     var(--jBlack) 35%,
     var(--jBlack) 50%,
     var(--jBlack) 65%, 
-    var(--jGrey) 100%);
+    var(--jGrey) 100%
+  );
 }
 .link-apple {
   background-color: var(--jRed);
   background: linear-gradient(
-    90deg, 
-    red, 
+    90deg,  
     var(--jRed), 
-    var(--jRed), 
-    var(--jRed), 
-    red);
+    red,
+    var(--jRed)
+  );
 }
 
 
@@ -88,17 +89,17 @@ h1 {
 h2 {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   letter-spacing: 2px;
-  color: rgb(255, 00, 00);
+  color: var(--jRed);
 }
 h3, h3.a {
   font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   letter-spacing: 3px;
-  color: rgb(255, 00, 00);
+  color: var(--jRed);
 }
 h4 {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   letter-spacing: 0px;
-  color: rgb(255, 00, 00);
+  color: var(--jRed);
 }
 h1, h2, h3 {
   font-size: 150%;
@@ -107,23 +108,23 @@ p {
   font-size: 110%;  
 }
 .prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
-  color: rgb(255, 00, 00);
+  color: var(--jRed);
   text-decoration: none;
-  text-decoration-color: red;
+  text-decoration-color: var(--jRed);
 }
 .prose :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)):hover {
   text-decoration: underline;
-  background-color: rgba(0, 0, 255, 0);
+  background-color: rgba(0, 0, 0, 0);
 }
 .hover\:text-primary-500:hover {
   --tw-text-opacity: 1;
-  color: rgb(255 0 0 / var(--tw-text-opacity));
+  color: var(--jRed);
 }
 .hover\:underline:hover {
   text-decoration-line: underline;
 }
 .hover\:decoration-primary-400:hover {
-  text-decoration-color: #ff2628;
+  text-decoration-color: var(--jRed);
 }
 .text-neutral-500 { 
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -135,8 +136,7 @@ p {
 
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
-    --tw-bg-opacity: 1;
-    background-color: rgb(00 00 00 / var(--tw-bg-opacity));
+    background-color: black;
   }
 }
 
