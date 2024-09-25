@@ -31,9 +31,9 @@
   background: var(--jPink);
   background: linear-gradient(
     135deg,
-    var(--jPurple) 0%,
-    var(--jRed) 50%,
-    var(--jPink) 100%
+    var(--jPurple),
+    var(--jRed),
+    var(--jPink)
   );
 }
 .link-threads {
@@ -43,7 +43,7 @@
     var(--jYellow) 5%,
     var(--jOrange) 30%,
     var(--jRed) 50%,
-    var(--jPurple) 110%
+    var(--jPurple) 105%
   );
 }
 .link-mastodon {
@@ -61,20 +61,22 @@
   background-color: var(--jGrey);
   background: linear-gradient(
     90deg, 
-    var(--jGrey) 0%, 
-    var(--jBlack) 35%,
-    var(--jBlack) 50%,
-    var(--jBlack) 65%, 
-    var(--jGrey) 100%
+    var(--jBlack),
+    var(--jGrey),
+    var(--jGrey),
+    var(--jGrey),
+    var(--jBlack)
   );
 }
 .link-apple {
   background-color: var(--jRed);
   background: linear-gradient(
     90deg,  
-    var(--jRed), 
     red,
-    var(--jRed)
+    var(--jRed),
+    var(--jRed),
+    var(--jRed),
+    red
   );
 }
 
