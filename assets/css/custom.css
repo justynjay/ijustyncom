@@ -1,21 +1,14 @@
 :root {
-  --jRed:	#FF2828; 	/* rgb(255,  40,  40) */
-
-  --jPurple:	#7828FF; 	/* rgb(120,  40, 255) */
-
-  --jBlue:	#3C28FF; 	/* rgb( 60,  40, 255) */
-
-  --jOrange:	#FF7828; 	/* rgb(255, 120,  40) */
-
-  --jYellow:	#FFDC28; 	/* rgb(255, 220,  40) */
-
-  --jPink:	#FF28C8; 	/* rgb(255,  40, 200) */
-
-  --jGrey:	#282828; 	/* rgb( 40,  40,  40) */
-
-  --jBlack:	#141414; 	/* rgb( 20,  20,  20) */
+  --jRed:   #FF2828; /* rgb(255, 040,  40) */
+  --jOrange: #FF7828; /* rgb(255, 120,  40) */
+  --jYellow: #FFDC28; /* rgb(255, 220,  40) */
+  --jGreen:  #28C828; /* rgb( 40, 200,  40) */
+  --jBlue:	 #2828FF; /* rgb( 40,  40, 255) */
+  --jPurple: #7828FF; /* rgb(120,  40, 255) */
+  --jPink:	 #FF28C8; /* rgb(255,  40, 200) */
+  --jGrey:	 #282828; /* rgb( 40,  40,  40) */
+  --jBlack:	 #141414; /* rgb( 20,  20,  20) */
 }
-
 
 
 
@@ -50,11 +43,11 @@
   background-color: var(--jPurple);
   background: linear-gradient(
     90deg,  
+    var(--jPurple),
     var(--jBlue),
-    var(--jPurple),
-    var(--jPurple),
-    var(--jPurple),
-    var(--jBlue)
+    var(--jBlue),
+    var(--jBlue),
+    var(--jPurple)
   );
 }
 .link-link {
