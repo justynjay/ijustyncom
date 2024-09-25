@@ -1,13 +1,13 @@
 :root {
-  --jRed:   #FF2828; /* rgb(255, 040,  40) */
+  --jRed:    #FF2828; /* rgb(255, 040,  40) */
   --jOrange: #FF7828; /* rgb(255, 120,  40) */
   --jYellow: #FFDC28; /* rgb(255, 220,  40) */
   --jGreen:  #28C828; /* rgb( 40, 200,  40) */
-  --jBlue:	 #2828FF; /* rgb( 40,  40, 255) */
+  --jBlue:   #2828FF; /* rgb( 40,  40, 255) */
   --jPurple: #7828FF; /* rgb(120,  40, 255) */
-  --jPink:	 #FF28C8; /* rgb(255,  40, 200) */
-  --jGrey:	 #282828; /* rgb( 40,  40,  40) */
-  --jBlack:	 #141414; /* rgb( 20,  20,  20) */
+  --jPink:   #FF28C8; /* rgb(255,  40, 200) */
+  --jGrey:   #282828; /* rgb( 40,  40,  40) */
+  --jBlack:  #141414; /* rgb( 20,  20,  20) */
 }
 
 
@@ -46,7 +46,6 @@
     var(--jPurple),
     var(--jBlue),
     var(--jBlue),
-    var(--jBlue),
     var(--jPurple)
   );
 }
@@ -54,19 +53,19 @@
   background-color: var(--jGrey);
   background: linear-gradient(
     90deg, 
+    var(--jGrey),
     var(--jBlack),
-    var(--jGrey),
-    var(--jGrey),
-    var(--jBlack)
+    var(--jBlack),
+    var(--jGrey)
   );
 }
 .link-apple {
   background-color: var(--jRed);
   background: linear-gradient(
     90deg,  
-    red,
     var(--jRed),
-    red
+    red,
+    var(--jRed)
   );
 }
 
