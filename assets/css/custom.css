@@ -1,66 +1,84 @@
-.link-threads {
-  background: rgb(252, 176, 69);
-  background: linear-gradient(
-    135deg,
-    rgba(252, 176, 69, 1) 0%,
-    rgba(253, 29, 29, 1) 35%,
-    rgba(131, 58, 255, 1) 100%
-  );
+:root {
+  --jRed:	#FF2828; 	/* rgb(255,  40,  40) */
+
+  --jPurple:	#7828FF; 	/* rgb(120,  40, 255) */
+
+  --jBlue:	#3C28FF; 	/* rgb( 60,  40, 255) */
+
+  --jOrange:	#FF7828; 	/* rgb(255, 120,  40) */
+
+  --jYellow:	#FFDC28; 	/* rgb(255, 220,  40) */
+
+  --jPink:	#FF28C8; 	/* rgb(255,  40, 200) */
+
+  --jGrey:	#282828; 	/* rgb( 40,  40,  40) */
+
+  --jBlack:	#141414; 	/* rgb( 20,  20,  20) */
 }
 
-.link-other {
-  background: rgb(0, 0, 0);
-  );
-}
 
-.link-link {
-  background: rgb(33, 33, 33);
-}
-.link-apple {
-  background: rgb(255, 00, 00);
-}
-.link-mastodon {
-  background: rgb(126 34 206);
-}
-.link-mastodon {
-  background: rgb(126 34 255);
-}
-.link-mastodon {
-  background-color: #7E22FF;
-  background: linear-gradient(90deg,  
-    #4222FF 0%,
-    #7E22FF 35%,
-    #7E22FF 50%,
-    #7E22FF 65%,
-    #4222FF 100%);
-}
+
+
 .link-instagram {
   background-color: #c13584;
   background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
 }
 
+
+
+
 .link-instagram {
-  background: rgb(131, 58, 255);
+  background: var(--jPink);
   background: linear-gradient(
     135deg,
-    rgba(131, 58, 255, 1) 0%,
-    rgba(253, 29,  29, 1) 50%,
-    rgba(252,  0, 180, 1) 100%
+    var(--jPurple) 0%,
+    var(--jRed) 50%,
+    var(--jPink) 100%
   );
 }
-
-.link-apple {
-  background-color: #FF0000;
-  background: linear-gradient(90deg, #FF0000, #FF2628, #FF0000);
+.link-threads {
+  background: var(--jOrange);
+  background: linear-gradient(
+    135deg,
+    var(--jYellow) 5%,
+    var(--jOrange) 30%,
+    var(--jRed) 50%,
+    var(--jPurple) 110%
+  );
 }
-
+.link-mastodon {
+  background-color: var(--jPurple);
+  background: linear-gradient(
+    90deg,  
+    var(--jBlue) 0%,
+    var(--jPurple) 35%,
+    var(--jPurple) 50%,
+    var(--jPurple) 65%,
+    var(--jBlue) 100%);
+}
 .link-link {
-  background-color: #1E1E1E;
-  background: linear-gradient(90deg, 
-	#1E1E1E 0%, 
-	#0F0F0F 50%, 
-	#1E1E1E 100%);
+  background-color: var(--jGrey);
+  background: linear-gradient(
+    90deg, 
+    var(--jGrey) 0%, 
+    var(--jBlack) 35%,
+    var(--jBlack) 50%,
+    var(--jBlack) 65%, 
+    var(--jGrey) 100%);
 }
+.link-apple {
+  background-color: var(--jRed);
+  background: linear-gradient(
+    90deg, 
+    red, 
+    var(--jRed), 
+    var(--jRed), 
+    var(--jRed), 
+    red);
+}
+
+
+
 
 h1 {
   font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -82,15 +100,12 @@ h4 {
   letter-spacing: 0px;
   color: rgb(255, 00, 00);
 }
-
 h1, h2, h3 {
   font-size: 150%;
 }
-
 p { 
   font-size: 110%;  
 }
-
 .prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
   color: rgb(255, 00, 00);
   text-decoration: none;
@@ -100,24 +115,22 @@ p {
   text-decoration: underline;
   background-color: rgba(0, 0, 255, 0);
 }
-
 .hover\:text-primary-500:hover {
   --tw-text-opacity: 1;
   color: rgb(255 0 0 / var(--tw-text-opacity));
 }
-
 .hover\:underline:hover {
   text-decoration-line: underline;
 }
-
 .hover\:decoration-primary-400:hover {
   text-decoration-color: #ff2628;
 }
-
 .text-neutral-500 { 
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   letter-spacing: 0px;
 }
+
+
 
 
 @media (prefers-color-scheme: dark) {
@@ -126,3 +139,4 @@ p {
     background-color: rgb(00 00 00 / var(--tw-bg-opacity));
   }
 }
+
