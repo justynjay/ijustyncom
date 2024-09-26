@@ -86,7 +86,6 @@
     var(--jBlue),
     var(--jPurple),
     var(--jPurple),
-    var(--jPurple),
     var(--jBlue)
   );
 }
@@ -95,7 +94,6 @@
   background: linear-gradient(
     90deg, 
     var(--jGrey),
-    var(--jBlack),
     var(--jBlack),
     var(--jGrey)
   );
