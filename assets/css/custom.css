@@ -110,7 +110,7 @@
 .link-bluesky {
   background-color: var(--jBlue);
   background: linear-gradient(
-    45deg, 
+    135deg, 
     var(--jPurple), 
     var(--jBlue),
     var(--jBlue),
@@ -126,8 +126,9 @@ h2, h4, .text-neutral-500 {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-h1 {
+h1, title {
   letter-spacing: 8px;
+  line-height: 200%;
 }
 h2 {
   letter-spacing: 2px;
