@@ -21,10 +21,12 @@ Follow me to be alerted when I'm live!
 
 <br>
 <br>
+<br>
 
 <h2>Clips on Instagram</h2>
 <h4><a href="https://instagram.com/justynjay">@justynjay</a></h4
 
+<br>
 <br>
 <br>
 
@@ -39,6 +41,18 @@ I play
 
 <br>
 <br>
+<br>
+
+<h2>Steam</h2>
+<h4><a href="https://steamcommunity.com/id/ijustyn">@ijustyn</a></h4>
+
+I love the <a href="https://store.steampowered.com/bundle/234/Portal_Bundle/">Portal</a>
+ series.
+
+<br>
+<br>
+<br>
+
 
 <h2>PlayStation Network</h2>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
