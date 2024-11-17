@@ -82,7 +82,7 @@
 .link-mastodon {
   background-color: var(--jPurple);
   background: linear-gradient(
-    90deg,  
+    135deg,  
     var(--jBlue),
     var(--jPurple),
     var(--jPurple),
@@ -92,7 +92,7 @@
 .link-more {
   background-color: var(--jGrey);
   background: linear-gradient(
-    90deg, 
+    135deg, 
     var(--jGrey),
     var(--jBlack),
     var(--jGrey)
@@ -107,7 +107,16 @@
     var(--jRed)
   );
 }
-
+.link-bluesky {
+  background-color: var(--jBlue);
+  background: linear-gradient(
+    135deg, 
+    var(--jPurple), 
+    var(--jBlue),
+    var(--jBlue),
+    var(--jPurple)
+  );
+}
 
 
 h1, h3, h3.a {
