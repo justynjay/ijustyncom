@@ -4,8 +4,8 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/other/</loc>
-  </url><url>
     <loc>http://localhost:1313/gaming/</loc>
+  </url><url>
+    <loc>http://localhost:1313/other/</loc>
   </url>
 </urlset>
