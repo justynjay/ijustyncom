@@ -15,7 +15,7 @@ Follow me to be alerted when I'm live!
     
 <h2>Pokémon</h2>
 <h4>@ijustyn</h4>
-I play Go and TCGP on iPhone.
+I play <a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">Go</a> and <a href="https://apps.apple.com/us/app/pok%C3%A9mon-tcg-pocket/id6479970832">TCG Pocket</a> on iPhone.
 <br>
 
 <br>
