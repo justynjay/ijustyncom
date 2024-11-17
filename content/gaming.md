@@ -1,7 +1,6 @@
 ---
 title: 'Video Games'
 ---
-<body>
 <center>
 
 <h2>Streaming</h2>
@@ -48,4 +47,3 @@ I play
 <br>
 
 </center>
-</body>

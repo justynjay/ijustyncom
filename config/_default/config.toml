@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
     { more      = { href = "/other", text = "More", title = "More Accounts", target = "_self", icon = "email" } },
 
     # { pay       = { href = "/tip", text = "Pay", title = "Tip @ijustyn", icon = "apple" } },
-   
+
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
