@@ -17,7 +17,9 @@ Follow me to be alerted when I'm live!
 
 <h3><a href="https://twitch.tv/justynjay">Twitch &#8599;</a></h3>
 <h4>@justynjay</h4>
+
 <br>
+    
 <h3><a href="https://youtube.com/@justynjay7496">YouTube &#8599;</a></h3>
 <h4>justynjay</h4>
 
@@ -60,6 +62,7 @@ I love the <a href="https://store.steampowered.com/bundle/234/Portal_Bundle/">Po
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/2/justynjay.png" border="0" width="100%"></a>
 
+<br>
 <br>
 <br>
 </center>
