@@ -15,7 +15,7 @@ I play Spider-Man and GTA Online on PS5. I'll be streaming on Twitch & YouTube a
 Follow me to be alerted when I'm live!
 </p>
 
-<h3><a href="https://twitch.tv/justynjay">Twitch &#8599;</a></h3>
+<h3><a href="https://twitch.tv/justynjay" icon = "twitch">Twitch &#8599;</a></h3>
 <h4>@justynjay</h4>
 
 <br>
