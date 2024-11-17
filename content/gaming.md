@@ -22,8 +22,8 @@ Follow me to be alerted when I'm live!
 <br>
 <br>
 
-<h2>PlayStation Network</h2>
-<a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/2/justynjay.png" border="0" ></a>
+<h2>Clips on Instagram</h2>
+<h4><a href="https://instagram.com/justynjay">@justynjay</a></h4
 
 <br>
 <br>
@@ -40,10 +40,10 @@ I play
 <br>
 <br>
 
-<h2>Clips on Instagram</h2>
-<h4><a href="https://instagram.com/justynjay">@justynjay</a></h4>
+<h2>PlayStation Network</h2>
+<a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
+<a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/2/justynjay.png" border="0" width="100%"></a>
 
 <br>
 <br>
-
 </center>
