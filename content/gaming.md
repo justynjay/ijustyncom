@@ -2,8 +2,6 @@
 title: 'Video Games'
 ---
 <center>
-  
-<h4>@justynjay</h3>
 
 <br>
 
@@ -11,9 +9,7 @@ title: 'Video Games'
 
 <p>
 I play Spider-Man and GTA Online on PS5. I'll be streaming on Twitch & YouTube again soon!
-
 <br>
-
 Follow me to be alerted when I'm live!
 </p>
 
