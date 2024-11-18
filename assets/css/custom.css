@@ -89,7 +89,7 @@
     var(--jBlue)
   );
 }
-.link-more {
+.link-pay {
   background-color: var(--jGrey);
   background: linear-gradient(
     135deg, 
@@ -98,7 +98,7 @@
     var(--jGrey)
   );
 }
-.link-pay {
+.link-more {
   background-color: var(--jRed);
   background: linear-gradient(
     90deg,  
