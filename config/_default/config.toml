@@ -61,11 +61,11 @@ disableKinds = ["taxonomy", "term"]
     # { threads = "https://threads.com/username" },
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://ijustyn.tumblr.com" },
-    # { twitch = "https://twitch.tv/username" },
+     { twitch = "https://twitch.tv/justynjay" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "https://x.com/username" },
-    # { youtube = "https://youtube.com/username" },
+     { youtube = "https://youtube.com/ijustyn" },
   ]
 
 [module]
