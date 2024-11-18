@@ -41,25 +41,9 @@ My listening profile on Apple Music. A collection of carefully curated playlists
 <br>
 
 <p>
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" width="50%" min-width="25%" max-width="100%" height="450" style="overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/justyn-now/pl.u-9DLlbFmYkEW" align="left"></iframe>
-
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" width="50%" min-width="25%" max-width="100%" height="450" style="overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/heavy-rotation-mix/pl.pm-20e9f373919da0801d77e978559ddc12" align="right"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" width="100%" min-width="50%" max-width="100%" height="450" style="overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/justyn-now/pl.u-9DLlbFmYkEW"></iframe>
 </p>
 
-<h2>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</h2>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -77,4 +61,5 @@ Supports Pay, Google Pay, and credit/debit cards.
 <br>
 <br>
 <br>
+
 </center>
