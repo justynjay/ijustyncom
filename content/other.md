@@ -25,7 +25,6 @@ Microblog of my favorite things in pop culture. Mostly reblogs. <i>Viewer discre
     
 <h3><a href="/tip" target="_blank">Pay &#8599;</a></h3>
 <h4>Payments & Donations</h4>
-Uses <a href="https://squareup.com">Square's</a> payments platform.
-
+Uses <a href="https://squareup.com">Square's</a> payments platform. Supports Apple Pay, Google Pay, and credit/debit cards. 
 <br><br><br>
 </center>
