@@ -3,6 +3,8 @@ title: 'Other Accounts'
 ---
 <center><br><p>You can also find me at these locations if you are interested!</p><br>
     
+    <br>
+
 <h3><a href="/gaming">Gaming &#8594;</a></h3>
 <h4>@justynjay</h4>
 I stream on my PS5 to Twitch and YouTube. I mostly play Spider-Man and GTA V.
