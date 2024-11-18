@@ -63,10 +63,11 @@ I play
 <br>
 <br>
   
-<h2>Steam</h2>
+<h2>Steam Community</h2>
 <h4><a href="https://steamcommunity.com/id/ijustyn">@ijustyn</a></h4>
 <a href="https://www.steamidfinder.com/lookup/76561198028655399/"><img src="https://www.steamidfinder.com/signature/76561198028655399.png" width="100%" alt="SteamId for ijustyn"/></a>
 
+<br>
 <br>
 <br>
 <br>
