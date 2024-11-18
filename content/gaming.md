@@ -39,12 +39,12 @@ Follow me to be alerted when I'm live!
 <br>
   
 <h3>Steam</h3>
-<h4><a href="https://steamcommunity.com/id/ijustyn">@ijustyn</a></h4>
+<h4><a href="https://steamcommunity.com/id/ijustyn">@ ijustyn</a></h4>
 
 <br>
 
 <h3>PlayStation Network</h3>
-<h4><a href="https://profile.playstation.com/justynjay">@justynjay</a></h4>
+<h4><a href="https://profile.playstation.com/justynjay">@ justynjay</a></h4>
 <br>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/2/justynjay.png" border="0" width="100%"></a>
