@@ -33,6 +33,17 @@ Microblog of my favorite things in pop culture. Mostly reblogs. <i>Viewer discre
 <br>
 <br>
 <br>
+
+<h2>Payments & Tips</h2>
+<h4><a href="/tip" target="_blank">$ Pay &#8599;</a></h4>
+Uses Square's payments platform.
+<br>
+Supports Pay, Google Pay, and credit/debit cards. 
+
+<br>
+<br>
+<br>
+<br>
     
 <h2>Music</h2>
 <h4><a href="/apple-music" target="_blank"> @ijustyn &#8599;</a></h4>
@@ -48,18 +59,6 @@ My listening profile on Apple Music. A collection of carefully curated playlists
 <br>
 <br>
 <br>
-
+<br>
     
-<h2>Payments & Tips</h2>
-<h4><a href="/tip" target="_blank">$ Pay &#8599;</a></h4>
-Uses Square's payments platform.
-<br>
-Supports Pay, Google Pay, and credit/debit cards. 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
 </center>
