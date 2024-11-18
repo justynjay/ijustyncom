@@ -16,12 +16,16 @@ Follow me to be alerted when I'm live!
 </p>
 
 <h3>Twitch</a></h3>
-<h4><a href="https://twitch.tv/justynjay">@justynjay</a></h4>
+<h4><a href="https://twitch.tv/justynjay"><span class="icon relative inline-block align-text-bottom">
+    <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitch" class="svg-inline--fa fa-twitch fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M391.17,103.47H352.54v109.7h38.63ZM285,103H246.37V212.75H285ZM120.83,0,24.31,91.42V420.58H140.14V512l96.53-91.42h77.25L487.69,256V0ZM449.07,237.75l-77.22,73.12H294.61l-67.6,64v-64H140.14V36.58H449.07Z"></path></svg>
+  </span> @justynjay</a></h4>
 
 <br>
     
 <h3>YouTube</a></h3>
-<h4><a href="https://youtube.com/@justynjay7496">justynjay</a></h4>
+<h4><a href="https://youtube.com/@justynjay7496"><span class="icon relative inline-block align-text-bottom">
+    <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="svg-inline--fa fa-youtube fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>
+  </span> justynjay</a></h4>
 
 <br>
 <br>
