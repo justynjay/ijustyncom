@@ -54,21 +54,18 @@ I play
 <br>
 <br>
 
-<h2>Steam</h2>
-<h4><a href="https://steamcommunity.com/id/ijustyn">@ijustyn</a></h4>
-<a href="https://www.steamidfinder.com/lookup/76561198028655399/"><img src="https://www.steamidfinder.com/signature/76561198028655399.png" width="100%" alt="SteamId for ijustyn"/></a>
-I love the <a href="https://store.steampowered.com/bundle/234/Portal_Bundle/">Portal</a>
- series.
-
-<br>
-<br>
-<br>
-
-
 <h2>PlayStation Network</h2>
 <h4><a href="https://profile.playstation.com/justynjay">@justynjay</a></h4>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/2/justynjay.png" border="0" width="100%"></a>
+
+<br>
+<br>
+<br>
+  
+<h2>Steam</h2>
+<h4><a href="https://steamcommunity.com/id/ijustyn">@ijustyn</a></h4>
+<a href="https://www.steamidfinder.com/lookup/76561198028655399/"><img src="https://www.steamidfinder.com/signature/76561198028655399.png" width="100%" alt="SteamId for ijustyn"/></a>
 
 <br>
 <br>
