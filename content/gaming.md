@@ -45,7 +45,10 @@ Follow me to be alerted when I'm live!
 
 <h3>PlayStation Network</h3>
 <h4><a href="https://profile.playstation.com/justynjay">@ justynjay</a></h4>
+
 <br>
+<br>
+
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/2/justynjay.png" border="0" width="100%"></a>
 
