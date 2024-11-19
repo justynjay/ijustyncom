@@ -119,7 +119,7 @@
 
 
 h1, h3, h3.a {
-  font-family: SF-Compact, SFCompact-Regular, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: SF-Compact-Display-Regular, SF-Compact, SFCompact-Regular, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 h2, h4, .text-neutral-500 {
   font-family: SFMono-Regular, ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
