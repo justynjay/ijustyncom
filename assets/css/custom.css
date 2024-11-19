@@ -169,7 +169,7 @@ h1, .title {
 }
 
 h2, h4, .text-neutral-500 {
-  font-family: SFMono-Regular;
+  font-family: ui-monospace;
   letter-spacing: 2px;
 }
 
