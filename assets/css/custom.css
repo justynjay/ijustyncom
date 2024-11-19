@@ -142,24 +142,26 @@
 
 
 
-h1, .title, h3, h3.a {
-  font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, DIN Alternate;
+h1, .title  {
+  font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 8px;
 }
 
-h2, h4 {
+h2 {
   font-family: ui-monospace, monospace, "Courier New";
-  letter-spacing: 2px;
+  letter-spacing: 4px;
   font-size: 200%;
 }
 
-h3 {
-  letter-spacing: 4px;
+h3, h3.a {
+  font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 3px;
   font-size: 150%;
 }
 
-h4, .text-neutral-500 {
-  letter-spacing: 1px;
+h4 {
+  font-family: ui-monospace, monospace, "Courier New";
+  letter-spacing: 2px;
   font-size: 100%;
 }
 
@@ -168,7 +170,7 @@ p {
 }
 
 .text-neutral-500 {
-  font-size: 100%;  
+  letter-spacing: 1px;
   font-family: ui-monospace, monospace, "Courier New";
 }
 
