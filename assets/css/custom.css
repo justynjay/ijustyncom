@@ -166,6 +166,10 @@ p {
 
 h1, h3, h3.a {
   font: -apple-system-headline;
+  font-style: compact;
+  font-variant: compact;
+  font-design: compact;
+  font-width: compact;
 }
 
 
