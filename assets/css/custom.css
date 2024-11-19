@@ -198,13 +198,15 @@ p {
 }
 
 #Extra {
-      background-color: var(--jBlue);
+      background-color: var(--jRed);
       position: absolute;
       width: 100%;
       color: white;
       left: 0;
       right: 0;
     }
-
+#Extra.h2 {
+      color: white;
+    }
 
 
