@@ -2,7 +2,6 @@
 title: 'Video Games'
 ---
 <center>
-<h1>@justynjay</h1>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
 <h3>
   Streaming
