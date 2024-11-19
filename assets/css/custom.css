@@ -210,7 +210,7 @@ p {
   color: white;
 }
 
-#Extra prose a, #Extra a {
+#Extra prose, #Extra prose a, #Extra a {
   text-decoration-line: underline;
 }
 
