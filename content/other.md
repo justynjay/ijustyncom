@@ -3,7 +3,7 @@ title: 'Other Accounts'
 ---
 <center>
 
-<br><br>
+<br>
 
 <p>
     You can also find me at these locations if you are interested!
@@ -46,7 +46,6 @@ Supports Pay, Google Pay, and credit/debit cards.
 <h4><a href="/apple-music" target="_blank"> @ijustyn &#8599;</a></h4>
 <p>My listening profile on Apple Music. A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. I continuously update the playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!</p>
 
-<br>
 <br>
 
 <p>
