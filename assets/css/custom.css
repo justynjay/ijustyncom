@@ -159,9 +159,9 @@ h2, h2.text-neutral-500 {
 h3, h3.a {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   font: -apple-system-headline;
-  letter-spacing: 2px;
-  font-stretch: expanded;
-  font-width: expanded;
+  letter-spacing: 1px;
+  font-stretch: extra-expanded;
+  font-width: extra-expanded;
   
 }
 
