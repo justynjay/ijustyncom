@@ -121,8 +121,7 @@
   color: var(--jRed);
   text-decoration: none;
   text-decoration-color: var(--jRed);
-  font-weight: 900;
-  text-style: bold;
+  font-weight: 700;
 }
 .prose :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)):hover {
   text-decoration: underline;
