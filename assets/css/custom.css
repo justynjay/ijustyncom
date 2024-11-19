@@ -186,7 +186,7 @@ p {
 
 .link {
   font-family: ui-rounded;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 1px;
 }
 @media (prefers-color-scheme: dark) {
