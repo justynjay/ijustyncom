@@ -2,8 +2,11 @@
 title: 'Video Games'
 ---
 <center>
+  
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
 
+<br>
+  
 <p>
   I play Spider-Man and GTA Online on PS5. I'll be streaming on Twitch & YouTube again soon!
 </p>
@@ -67,7 +70,7 @@ title: 'Video Games'
 <br>
 <br>
 
-<h1>Pokémon</h1>
+<h2>Pokémon</h2>
 <br>
 <h3><a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">GO</a>
  & 
