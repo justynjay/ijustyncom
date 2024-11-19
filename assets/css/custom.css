@@ -197,8 +197,8 @@ p {
   }
 }
 
-#ABC {
-      background-color: Grey;
+#Extra {
+      background-color: var(--jBlue);
       position: absolute;
       width: 100%;
       color: white;
