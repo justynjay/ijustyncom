@@ -1,10 +1,9 @@
 ---
-title: 'Video Games'
+title: '@justynjay'
 ---
 <center>
 
-<h1>@justynjay</h1>
-<br>
+<h1>Video Game</h1>
 <h2>Streaming</h2>
 
 <p>
