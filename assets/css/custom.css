@@ -208,6 +208,7 @@ p {
     }
 #Extra p, #Extra h2, #Extra prose, #Extra prose a, #Extra *, #Extra a {
   color: white;
+  text-decoration-line: underline;
 }
 
 #Extra prose, #Extra prose a, #Extra a {
