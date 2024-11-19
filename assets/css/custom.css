@@ -140,7 +140,7 @@
 
 
 
-h1, .title, text-4xl font-extrabold dark:text-white {
+h1 {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   font: -apple-system-headline;
   letter-spacing: 4px;
@@ -149,7 +149,7 @@ h1, .title, text-4xl font-extrabold dark:text-white {
   font-size: 200%;
 }
 
-h2 {
+h2, h2.* {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 4px;
   font-size: 150%;
