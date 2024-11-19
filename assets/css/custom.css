@@ -142,8 +142,8 @@
 h1, .title  {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 8px;
-  font-stretch: condensed;
-  font-width: condensed;
+  font-stretch: ultra-condensed;
+  font-width: ultra-condensed;
   font-weight: light;
 }
 
@@ -155,7 +155,7 @@ h2 {
 h3, h3.a {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 3px;
-  font-stretch: condensed;
+  
   font-width: condensed;
   font-weight: bold;
 }
