@@ -165,14 +165,13 @@ h3, h3.a {
   
 }
 
-.prose {
+h3.prose {
   font-size: larger;
 }
 
 h4 {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 1px;
-  font-size: larger;
 }
 
 p { 
