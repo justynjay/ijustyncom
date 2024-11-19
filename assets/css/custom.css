@@ -143,12 +143,12 @@
 h1,  .font-extrabold {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   font: -apple-system-headline;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
   font-stretch: ultra-condensed;
   font-width: ultra-condensed;
-  font-size: 300%;
-  line-height: 150%;
-  font-weight: 400;
+  font-size: 400%;
+  line-height: 130%;
+  font-weight: 300;
 }
 
 h2, h2.text-neutral-500 {
