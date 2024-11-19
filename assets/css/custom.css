@@ -144,10 +144,6 @@ h1, .title  {
   letter-spacing: 8px;
 }
 
-h1, h1.title, .title, title {
-  line-height: 2;
-}
-
 h2 {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 4px;
