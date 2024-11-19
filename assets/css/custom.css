@@ -198,12 +198,14 @@ p {
 }
 
 #ABC {
-      background-color: var(--jRed);
+      background-color: black;
       height: 100%;
       position: relative;
       top: 0;
       left: 0;
       width: 100%;
+      position: absolute;
+      font-color: white;
     }
 
 
