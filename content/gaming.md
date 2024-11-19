@@ -69,7 +69,6 @@ title: 'Video Games'
 <br>
 <br>
 <br>
-<br>
 
 <h2>Pokémon</h2>
 <br>
