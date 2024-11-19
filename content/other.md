@@ -39,7 +39,7 @@ title: 'Other Accounts'
 <br><br><br>
 
 <h3>
-  Payments & Tips
+  Payments &&#160;Tips
 </h3>
 <h4>
   <a href="/tip" target="_blank">
