@@ -153,7 +153,8 @@ h1, .text-4xl, .font-extrabold {
 h2, h2.text-neutral-500 {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 1px;
-  font-size: 150%;
+  font-size: 120%;
+  line-height: 60%;
 }
 
 h3, h3.a {
