@@ -165,7 +165,7 @@ h3, h3.a {
   
 }
 
-h3.prose {
+.prose {
   font-size: larger;
 }
 
@@ -186,7 +186,7 @@ p {
 .link {
   font-family: ui-rounded;
   font-weight: 400;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
