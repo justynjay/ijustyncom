@@ -156,13 +156,13 @@ h2 {
 h3, h3.a {
   font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 3px;
-  font-size: 150%;
+  font-size: 200%;
 }
 
 h4 {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 2px;
-  font-size: 100%;
+  font-size: 150%;
 }
 
 p { 
