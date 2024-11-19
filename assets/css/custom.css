@@ -147,8 +147,8 @@ h1,  .font-extrabold {
   font-stretch: ultra-condensed;
   font-width: ultra-condensed;
   font-size: 450%;
-  line-height: 130%;
-  font-weight: 200;
+  line-height: 120%;
+  font-weight: 100;
 }
 
 h2, h2.text-neutral-500 {
@@ -163,7 +163,6 @@ h3, h3.a {
   letter-spacing: 1px;
   font-stretch: ultra-expanded;
   font-width: ultra-expanded;
-  
 }
 
 .prose {
@@ -189,6 +188,8 @@ p {
   font-family: ui-rounded;
   font-weight: 600;
   letter-spacing: 1px;
+  font-stretch: expanded;
+  font-width: expanded;
 }
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
