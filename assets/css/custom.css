@@ -202,10 +202,11 @@ p {
       position: absolute;
       width: 100%;
       color: white;
+      font-color: white;
       left: 0;
       right: 0;
     }
-#Extra.h2 {
+#Extra.a {
       color: white;
     }
 
