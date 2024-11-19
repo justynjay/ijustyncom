@@ -140,14 +140,14 @@
 
 
 
-h1, h1.font-extrabold, h1.text-4xl {
+h1, h1.text-4xl font-extrabold {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   font: -apple-system-headline;
   letter-spacing: 4px;
   font-stretch: ultra-condensed;
   font-width: ultra-condensed;
-  font-size: 200%;
-  line-height: 120%;
+  font-size: 300%;
+  line-height: 200%;
 }
 
 h2, h2.text-neutral-500 {
