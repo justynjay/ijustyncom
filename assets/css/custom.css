@@ -208,10 +208,9 @@ p {
     }
 #Extra p, #Extra h2, #Extra prose, #Extra prose a, #Extra *, #Extra a {
   color: white;
-  text-decoration-line: underline;
 }
 
-#Extra prose, #Extra prose a, #Extra a {
+#Extra prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
   text-decoration-line: underline;
 }
 
