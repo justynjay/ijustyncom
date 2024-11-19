@@ -170,6 +170,7 @@ h1, h3, h3.a {
   font-variant: compact;
   font-design: compact;
   font-width: compact;
+  font-family: SF-Compact, "SF Compact", -apple-system-compact;
 }
 
 
