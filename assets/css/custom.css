@@ -150,7 +150,7 @@ h1, .title, h3, h3.a {
 h2, h4, .text-neutral-500 {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 2px;
-  font-size: 120%;
+  font-size: 150%;
 }
 
 h3, h3.a {
@@ -160,13 +160,16 @@ h3, h3.a {
 
 h4, .text-neutral-500 {
   letter-spacing: 1px;
+  font-size: 120%;
 }
 
 p { 
   font-size: 120%;  
 }
 
-
+.text-neutral-500 {
+  font-size: 100%;  
+}
 
 
 @media (prefers-color-scheme: dark) {
