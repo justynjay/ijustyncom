@@ -2,11 +2,12 @@
 title: 'Other Accounts'
 ---
 <center>
+<br>
 <p>
   You can also find me at these locations if you are interested!
 </p>
 
-<br><br><br>
+<br><br>
 
 <h3>
   Gaming
@@ -47,7 +48,7 @@ title: 'Other Accounts'
 </h4>
 <p>
   Uses Square's payments platform.
-</p><p>
+<br>
 Supports Pay, Google Pay, and credit/debit cards. 
 </p>
 
