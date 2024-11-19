@@ -143,7 +143,7 @@
 
 
 h1, .title, h3, h3.a {
-  font-family: SF Condensed, ui-sans-serif, system-ui, sans-serif, DIN Alternate;
+  font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, DIN Alternate;
   letter-spacing: 8px;
 }
 
@@ -164,7 +164,7 @@ h4, .text-neutral-500 {
 }
 
 p { 
-  font-size: 120%;  
+  font-size: 100%;  
 }
 
 .text-neutral-500 {
