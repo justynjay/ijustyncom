@@ -158,12 +158,12 @@ p {
 
 h1, .title, h3, h3.a {
   font: -apple-system;
-  font-family: -apple-system-short-caption1, ui-sans-serif, system-ui, sans-serif;
+  font-family: -apple-system-caption1, ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 8px;
 }
 
 h2, h4, .text-neutral-500 {
-  font-family: -apple-system-short-footnote, ui-monospace, monospace, "Courier New";
+  font-family: -apple-system-footnote, ui-monospace, monospace, "Courier New";
   letter-spacing: 2px;
 }
 
