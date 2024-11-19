@@ -166,12 +166,13 @@ h3, h3.a {
 }
 
 .prose {
-  font-size: larger;
+  font-size: large;
 }
 
 h4 {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 1px;
+  font-size: medium;
 }
 
 p { 
@@ -185,7 +186,7 @@ p {
 
 .link {
   font-family: ui-rounded;
-  font-weight: 400;
+  font-weight: 500;
   letter-spacing: 1px;
 }
 @media (prefers-color-scheme: dark) {
