@@ -148,6 +148,7 @@ h1,  .font-extrabold {
   font-width: ultra-condensed;
   font-size: 300%;
   line-height: 150%;
+  font-weight: 400;
 }
 
 h2, h2.text-neutral-500 {
