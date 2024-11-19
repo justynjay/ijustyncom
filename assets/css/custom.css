@@ -146,13 +146,13 @@ h1, .title  {
   letter-spacing: 4px;
   font-stretch: ultra-condensed;
   font-width: ultra-condensed;
-  font-weight: 300;
-  font-size: 2;
+  font-size: 200%;
 }
 
 h2 {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 4px;
+  font-size: 150%;
 }
 
 h3, h3.a {
