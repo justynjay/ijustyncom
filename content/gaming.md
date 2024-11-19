@@ -66,16 +66,14 @@ title: 'Video Games'
 
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/2/justynjay.png" border="0" width="100%"></a>
 
-<br><br><br>
+<br><br><br><br>
   
 <section id="Extra">
 
 <br>
 
 <h2>Pokémon</h2>
-<h3><a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">GO</a>
- & 
-<a href="https://apps.apple.com/us/app/pok%C3%A9mon-tcg-pocket/id6479970832">TCG Pocket</a></h3>
+<h3>GO & TCG Pocket</h3>
 <h4>@ ijustyn</h4>
 
 Just casual, but I play these too sometimes. 
