@@ -153,8 +153,8 @@ h2 {
 h3, h3.a {
   font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 2px;
-  font-size: 120%;
-  font-weight: light;
+  font-size: larger;
+  font-weight: lighter;
 }
 
 h4 {
