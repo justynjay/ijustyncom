@@ -155,7 +155,8 @@ h3, h3.a {
   font-family: ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 2px;
   font-size: larger;
-  font-weight: lighter;
+  font-weight: light;
+  text-weight: light;
 }
 
 h4 {
