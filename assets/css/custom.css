@@ -180,7 +180,10 @@ p {
   font-family: ui-monospace, monospace, "Courier New";
 }
 
-
+.link {
+  font-family: ui-rounded;
+  font-weight: bold;
+}
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
     background-color: black;
