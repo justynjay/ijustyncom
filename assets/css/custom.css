@@ -160,8 +160,8 @@ h3, h3.a {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   font: -apple-system-headline;
   letter-spacing: 2px;
-  font-stretch: condensed;
-  font-width: condensed;
+  font-stretch: expanded;
+  font-width: expanded;
   
 }
 
@@ -172,7 +172,7 @@ h3, h3.a {
 h4 {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 1px;
-  font-size: medium;
+  font-size: large;
 }
 
 p { 
