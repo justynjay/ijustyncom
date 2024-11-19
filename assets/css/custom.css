@@ -199,11 +199,7 @@ p {
 
 #ABC {
       background-color: var(--jRed);
-      height: 100%;
-      position: relative;
-      top: 0;
-      left: -10;
-      right: -10;
+      position: absolute;
       width: 100%;
       color: white;
     }
