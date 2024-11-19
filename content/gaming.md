@@ -2,7 +2,7 @@
 title: 'Video Games'
 ---
 <center>
-<h2>@justynjay</h2>
+<h1>@justynjay</h1>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
 <h3>
   Streaming
@@ -71,7 +71,7 @@ title: 'Video Games'
 <br>
 <br>
 
-<h2>Pokémon</h2>
+<h1>Pokémon</h1>
 <br>
 <h3><a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">GO</a>
  & 
