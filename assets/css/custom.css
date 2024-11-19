@@ -149,10 +149,10 @@ h1 {
   font-size: 200%;
 }
 
-h2, h2.* {
+h2, h2.text-neutral-500 {
   font-family: ui-monospace, monospace, "Courier New";
   letter-spacing: 4px;
-  font-size: 150%;
+  font-size: 200%;
 }
 
 h3, h3.a {
