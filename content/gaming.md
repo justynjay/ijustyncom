@@ -3,12 +3,6 @@ title: 'Video Games'
 ---
 <center>
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/1/justynjay.png" border="0" width="100%"></a>
-<h1>
-  Streaming
-</h1>
-<h2>
-  @justynjay
-</h2>
 
 <p>
   I play Spider-Man and GTA Online on PS5. I'll be streaming on Twitch & YouTube again soon!
