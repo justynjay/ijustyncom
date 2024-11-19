@@ -144,6 +144,7 @@ h1, .title  {
   letter-spacing: 8px;
   font-stretch: condensed;
   font-width: condensed;
+  font-weight: lighter;
 }
 
 h2 {
