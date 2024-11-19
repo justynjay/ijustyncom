@@ -152,7 +152,7 @@ h2 {
 }
 
 h3, h3.a {
-  font-family: DIN, DIN Alternate, ui-sans-serif, system-ui, sans-serif;
+  font-family: ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 2px;
   font-size: larger;
   font-weight: lighter;
