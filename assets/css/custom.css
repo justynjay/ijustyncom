@@ -159,7 +159,7 @@ h2, h2.text-neutral-500 {
 h3, h3.a {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   font: -apple-system-headline;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   font-stretch: condensed;
   font-width: condensed;
   font-weight: 900;
@@ -167,7 +167,7 @@ h3, h3.a {
 
 h4 {
   font-family: ui-monospace, monospace, "Courier New";
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   font-size: larger;
 }
 
@@ -182,7 +182,7 @@ p {
 
 .link {
   font-family: ui-rounded;
-  font-weight: bold;
+  font-weight: 509;
 }
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
