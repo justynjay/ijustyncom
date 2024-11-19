@@ -146,14 +146,14 @@ h1, .text-4xl, .font-extrabold {
   letter-spacing: 4px;
   font-stretch: ultra-condensed;
   font-width: ultra-condensed;
-  font-size: 500%;
+  font-size: 300%;
   line-height: 200%;
 }
 
 h2, h2.text-neutral-500 {
   font-family: ui-monospace, monospace, "Courier New";
-  letter-spacing: 2px;
-  font-size: 120%;
+  letter-spacing: 1px;
+  font-size: 150%;
 }
 
 h3, h3.a {
