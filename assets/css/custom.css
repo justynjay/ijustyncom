@@ -200,7 +200,7 @@ p {
 #ABC {
       background-color: black;
       height: 100%;
-      position: static;
+      position: fixed;
       top: 0;
       left: 0;
       right: 0;
