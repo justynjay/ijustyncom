@@ -66,7 +66,7 @@ title: 'Video Games'
 
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/2/justynjay.png" border="0" width="100%"></a>
 
-<br><br>
+<br><br><br>
   
 <section id="Extra">
 
