@@ -158,7 +158,7 @@ p {
 
 h1, .title, h3, h3.a {
   font: -apple-system;
-  
+  font-family: ui-sans-serif, system-ui, sans-serif;
   letter-spacing: 8px;
 }
 
