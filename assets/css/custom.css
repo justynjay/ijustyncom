@@ -121,13 +121,11 @@
 h1, h3, h3.a {
   
 }
-h2, h4, .text-neutral-500 {
-  font-family: SFMono-Regular, ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
+
 
 
 h2 {
-  letter-spacing: 2px;
+  
 }
 h3, h3.a {
   letter-spacing: 4px;
@@ -162,11 +160,17 @@ p {
 
 h1, .title {
   font: -apple-system;
-  font-style: compact;
-  font-variant: compact;
-  font-design: compact;
-  font-width: compact;
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-style: condensed;
+  font-variant: condensed;
+  font-design: condensed;
+  font-width: condensed;
   letter-spacing: 8px;
+}
+
+h2, h4, .text-neutral-500 {
+  font-family: SFMono-Regular;
+  letter-spacing: 2px;
 }
 
 
