@@ -30,6 +30,7 @@ title: 'Other Accounts'
   </span> @ijustyn &#8599;</a></h4>
 <p>Microblog of my favorite things in pop culture. Mostly reblogs. <i>Viewer discretion advised.</i>
 </p>
+
 <br>
 <br>
 <br>
@@ -38,10 +39,7 @@ title: 'Other Accounts'
 <h3>Payments & Tips</h3>
 <h4><a href="/tip" target="_blank">$ Pay &#8599;</a></h4>
 <p>Uses Square's payments platform.
-</p>
 <br>
-
-<p>
 Supports Pay, Google Pay, and credit/debit cards. 
 </p>
 
@@ -56,8 +54,6 @@ Supports Pay, Google Pay, and credit/debit cards.
 
 <br>
 <br>
-<br>
-
 
 <p>
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" width="100%" min-width="50%" max-width="100%" height="450" style="overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/justyn-now/pl.u-9DLlbFmYkEW"></iframe>
