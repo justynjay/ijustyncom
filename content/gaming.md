@@ -58,8 +58,9 @@ Follow me to be alerted when I'm live!
 <br>
 
 <h2>Pokémon</h2>
-<h3><a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">Go</a>
- and 
+<br>
+<h3><a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">GO</a>
+ & 
 <a href="https://apps.apple.com/us/app/pok%C3%A9mon-tcg-pocket/id6479970832">TCG Pocket</a></h3>
 <h4>@ijustyn</h4>
 
