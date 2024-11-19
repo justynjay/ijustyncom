@@ -160,8 +160,8 @@ h3, h3.a {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   font: -apple-system-headline;
   letter-spacing: 1px;
-  font-stretch: extra-expanded;
-  font-width: extra-expanded;
+  font-stretch: ultra-expanded;
+  font-width: ultra-expanded;
   
 }
 
@@ -186,7 +186,7 @@ p {
 
 .link {
   font-family: ui-rounded;
-  font-weight: 900;
+  font-weight: 700;
   letter-spacing: 1px;
 }
 @media (prefers-color-scheme: dark) {
