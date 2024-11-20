@@ -62,11 +62,10 @@ title: 'Video Games'
 
 <br>
 <br>
-<br>
 
 <a href="https://psnprofiles.com/justynjay"><img src="https://card.psnprofiles.com/2/justynjay.png" border="0" width="100%"></a>
 
-<br><br><br><br>
+<br><br><br><br><>
   
 <section id="Extra">
 
@@ -85,7 +84,6 @@ Just casual, but I play these too sometimes.
   
 </section>
 
-<br>
-<br>
+<br><br><br>
 
 </center>
