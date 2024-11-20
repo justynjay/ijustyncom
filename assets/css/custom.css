@@ -211,7 +211,11 @@ p {
 #Extra a, #Extra prose a, #Extra h3.a
 {
   text-decoration: underline;
-  color: black;
+  color: white;
   text-decoration-line: underline;
-  text-decoration-color: white;
+  text-decoration-color: black;
+}
+
+#Extra h3 {
+  color: black;
 }
