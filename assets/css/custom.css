@@ -208,4 +208,10 @@ p {
   color: white;
 }
 
-
+#Extra a, #Extra prose a, #Extra h3.a
+{
+  text-decoration: underline;
+  color: white;
+  text-decoration-line: underline;
+  text-decoration-color: white;
+}
