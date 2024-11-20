@@ -195,12 +195,7 @@ p {
   }
 }
 #Music {
-      
-      width: 100%;
-      color: white;
-      left: 1;
-      right: 20;
-      bottom: 100;
+  
     }
 #Extra {
       background-color: var(--jBlue);
