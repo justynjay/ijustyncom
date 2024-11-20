@@ -187,10 +187,7 @@ p {
 .link {
   font-family: ui-rounded;
   font-weight: 700;
-  letter-spacing: 2px;
-  font-stretch: extra-expanded;
-  font-width: extra-expanded;
-  top: 0;
+  letter-spacing: 3px;
 }
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
