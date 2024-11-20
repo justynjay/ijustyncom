@@ -70,12 +70,23 @@ title: 'Video Games'
 <section id="Extra">
 
 <br>
-<h1>Mobile</h1>
-<h2></h2>
+
+<h1>
+  Mobile
+</h1>
+<h2>
+</h2>
+
 <h3>
-<a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">Pokémon GO</a>
- &&#8239;<a href="https://apps.apple.com/us/app/pok%C3%A9mon-tcg-pocket/id6479970832">TCG&#160;Pocket</a></h3>
-<br>
+  <a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">
+    Pokémon GO
+  </a>
+    &&#8239;
+  <a href="https://apps.apple.com/us/app/pok%C3%A9mon-tcg-pocket/id6479970832">
+    TCG&#160;Pocket
+  </a>
+</h3>
+
 <h4>@ ijustyn</h4>
 
 Just casual, but I play these too sometimes. 
