@@ -73,6 +73,6 @@ Supports Pay, Google Pay, and credit/debit cards.
 <br>
 </section>
 
-<br><br><br><br>
+<br><br><br>
     
 </center>
