@@ -213,5 +213,5 @@ p {
   text-decoration: underline;
   color: black;
   text-decoration-line: underline;
-  text-decoration-color: rgba(1, 1, 1, .5);
+  text-decoration-color: rgba(1.0, 1.0, 1.0, 0.5);
 }
