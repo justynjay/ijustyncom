@@ -1,4 +1,4 @@
-:root {
+  :root {
   --jRed:    #FF2828; /* rgb(255, 040,  40) */
   --jOrange: #FF7828; /* rgb(255, 120,  40) */
   --jYellow: #FFDC28; /* rgb(255, 220,  40) */
@@ -196,7 +196,7 @@ p {
 }
 
 #Extra {
-      background-color: var(--jRed);
+      background-color: var(--jOrange);
       position: absolute;
       width: 100%;
       color: white;
