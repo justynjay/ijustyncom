@@ -186,10 +186,10 @@ p {
 
 .link {
   
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 1px;
-  font-stretch: ultra-expanded;
-  font-width: ultra-expanded;
+  font-stretch: extra-expanded;
+  font-width: extra-expanded;
 }
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
