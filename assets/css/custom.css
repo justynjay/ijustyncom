@@ -198,7 +198,7 @@ p {
 }
 
 #Extra {
-      background-color: var(--jRed);
+      background-color: var(--jGrey);
       position: absolute;
       width: 100%;
       color: white;
