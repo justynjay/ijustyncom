@@ -71,10 +71,10 @@ title: 'Video Games'
 
 <br>
 <h1>Mobile Games</h1>
-<h2>Pokémon</h2>
+<h2></h2>
 <h3>
-<a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">GO</a>
- & 
+<a href="https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345">Pokémon GO</a>
+ &&nbsp;
 <a href="https://apps.apple.com/us/app/pok%C3%A9mon-tcg-pocket/id6479970832">TCG Pocket</a></h3>
 <h4>@ ijustyn</h4>
 
