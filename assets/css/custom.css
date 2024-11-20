@@ -207,8 +207,8 @@ p {
       position: absolute;
       width: 100%;
       color: white;
-      left: 0;
-      right: 0;
+      left: 5;
+      right: 10;
       bottom: 60;
     }
 #Extra p, #Extra h2, #Extra prose, #Extra h1, #Extra h3, #Extra h4 {
