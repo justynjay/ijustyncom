@@ -206,7 +206,7 @@ p {
       right: 0;
       bottom: 60;
     }
-#Extra p, #Extra h2, #Extra prose, #Extra prose a, #Extra *, #Extra a {
+#Extra p, #Extra h2, #Extra prose {
   color: white;
 }
 
