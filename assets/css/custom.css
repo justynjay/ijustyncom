@@ -163,6 +163,7 @@ h3, h3.a {
   letter-spacing: 1px;
   font-stretch: ultra-expanded;
   font-width: ultra-expanded;
+  font-weight: 200;
 }
 
 .prose {
