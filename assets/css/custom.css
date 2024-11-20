@@ -190,6 +190,7 @@ p {
   letter-spacing: 2px;
   font-stretch: extra-expanded;
   font-width: extra-expanded;
+  top: 0;
 }
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
