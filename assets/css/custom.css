@@ -185,9 +185,9 @@ p {
 }
 
 .link {
-  
-  font-weight: 500;
-  letter-spacing: 1px;
+  font-family: ui-rounded;
+  font-weight: 700;
+  letter-spacing: 2px;
   font-stretch: extra-expanded;
   font-width: extra-expanded;
 }
