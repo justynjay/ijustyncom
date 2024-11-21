@@ -10,6 +10,18 @@ title: 'Other Accounts'
 <br><br>
 
 <h3>
+  Photos
+</h3>
+<h4>
+  <a href="/photos">blog: rss & json &#8594;</a>
+</h4>
+<p>
+  Shot on my iPhone.
+</p>
+
+<br><br><br>
+
+<h3>
   Gaming
 </h3>
 <h4>
