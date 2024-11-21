@@ -7,4 +7,4 @@
 /photos https://photos.ijustyn.com 301
 /photos/ https://photos.ijustyn.com 301
 /photos/rss https://photos.ijustyn.com/rss 301
-/photos/rss: https://photos.ijustyn.com/rss 301
+/photos/rss/ https://photos.ijustyn.com/rss 301
