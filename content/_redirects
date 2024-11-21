@@ -8,3 +8,5 @@
 /photos/ https://photos.ijustyn.com 301
 /photos/rss https://photos.ijustyn.com/rss 301
 /photos/rss/ https://photos.ijustyn.com/rss 301
+/photos/json https://photos.ijustyn.com/json 301
+/photos/json/ https://photos.ijustyn.com/json 301
