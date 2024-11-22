@@ -20,10 +20,10 @@ disableKinds = ["taxonomy", "term"]
     { threads   = { href = "https://threads.net/ijustyn", rel="me" } },
     { mastodon  = { href = "https://masto.ai/@ijustyn", rel="me" } },     
     { bluesky 	= { href = "https://bsky.app/profile/ijustyn.com", rel="me" } },
-    { pay      = { href = "/other", text = "More", title = "More Accounts", target = "_self", icon = "email" } },
-    { more       = { href = "/photos", text = "Photos", title = "Justyn's Photos", target = "_self", icon = "link" } },
+    { more     = { href = "/other", text = "More", title = "More Accounts", target = "_self", icon = "email" } },
+    { pay       = { href = "/photos", text = "Photos", title = "Justyn's Photos", target = "_self", icon = "link" } },
 
-    { twitch = "https://twitch.tv/justynjay" },
+    # { twitch = "https://twitch.tv/justynjay" },
    
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
