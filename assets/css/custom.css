@@ -176,7 +176,7 @@ h4 {
   font-size: large;
 }
 
-h4.item-title {
+h4.item-title, .item-title, #item-title, item-title  {
   font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
   font: -apple-system-headline;
   letter-spacing: 1px;
