@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term"]
     { mastodon  = { href = "https://masto.ai/@ijustyn", rel="me" } },     
     { bluesky 	= { href = "https://bsky.app/profile/ijustyn.com", rel="me" } },
     { more     = { href = "/other", text = "More", title = "More Accounts", target = "_self", icon = "email" } },
-    { pay       = { href = "/photos", text = "Photos", title = "Justyn's Photos", target = "_self", icon = "link" } },
+    # { pay       = { href = "/photos", text = "Photos", title = "Justyn's Photos", target = "_self", icon = "link" } },
 
     # { twitch = "https://twitch.tv/justynjay" },
    
