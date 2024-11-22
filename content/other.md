@@ -13,7 +13,7 @@ title: 'Other Accounts'
   Photos
 </h3>
 <h4>
-  <a href="/photos">rss & json blog  &#8594;</a>
+  <a href="/photos">Blog  &#8594;</a>
 </h4>
 <p>
   Shot on my iPhone.
