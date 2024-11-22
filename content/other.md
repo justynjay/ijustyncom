@@ -16,8 +16,7 @@ title: 'Other Accounts'
   <a href="/photos">Blog  &#8594;</a>
 </h4>
 <p><br>
-  Shot on my iPhone. <br>Subscribe via RSS or JSON.
-  </p>
+  Shot on my iPhone. </p>
 
 <br><br><br>
 
