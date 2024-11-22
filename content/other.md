@@ -27,7 +27,7 @@ title: 'Other Accounts'
 <h4>
   <a href="/gaming">@justynjay &#8594;</a>
 </h4>
-<p>
+<p><br>
   I stream on my PS5 to Twitch and YouTube. I mostly play Spider-Man and GTA V.
 </p>
 
@@ -44,7 +44,7 @@ title: 'Other Accounts'
   </span> @ijustyn &#8599;
   </a>
 </h4>
-<p>
+<p><br>
   Microblog of my favorite things in pop culture. Mostly reblogs. <i>Viewer discretion advised.</i>
 </p>
 
@@ -58,7 +58,7 @@ title: 'Other Accounts'
     $ Pay &#8599;
   </a>
 </h4>
-<p>
+<p><br>
   Uses Square's payments platform.
 <br>
 Supports Pay, Google Pay, and credit/debit cards. 
@@ -74,7 +74,7 @@ Supports Pay, Google Pay, and credit/debit cards.
      @ijustyn &#8599;
   </a>
 </h4>
-<p>
+<p><br>
   My listening profile on Apple Music. A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. I continuously update the playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!
 </p>
 
