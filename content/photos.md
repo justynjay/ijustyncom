@@ -6,7 +6,7 @@ title: 'Photos'
 <br><br>
   <p>
     Shot on my iPhone. <br>
-    Subscribe via rss & json.
+    Subscribe via RSS & JSON.
   </p>
 <br><br>
     
