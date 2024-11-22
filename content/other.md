@@ -75,7 +75,8 @@ Supports Pay, Google Pay, and credit/debit cards.
   </a>
 </h4>
 <p><br>
-  My listening profile on Apple Music. A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. I continuously update the playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!
+  My listening profile on Apple Music. A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
+  <br>I continuously update the playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!
 </p>
 
 <br><br><br><br>
