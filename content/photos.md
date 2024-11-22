@@ -4,7 +4,7 @@ title: 'Photos'
 <center>
 
 <br><br>
-  <p>Photos shot on my iPhone.</p>
+  <p>Shot on my iPhone. Subscribe via rss & json.</p>
 <br><br>
     
 <p>
