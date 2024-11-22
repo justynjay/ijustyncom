@@ -15,7 +15,7 @@ title: 'Other Accounts'
 <h4>
   <a href="/photos">Blog  &#8594;</a>
 </h4>
-<p>
+<p><br>
   Shot on my iPhone.
   </p>
 
