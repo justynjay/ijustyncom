@@ -46,7 +46,8 @@ title: 'Other Accounts'
   </a>
 </h4>
 <p><br>
-  Microblog of my favorite things in pop culture. Mostly reblogs. <i>Viewer discretion advised.</i>
+  Microblog of my favorite things in pop culture. 
+  <br>Mostly reblogs. <i>Viewer discretion advised.</i>
 </p>
 
 <br><br><br>
@@ -78,6 +79,7 @@ Supports Pay, Google Pay, and credit/debit cards.
 <p><br>
   My listening profile on Apple Music. 
   <br>A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
+  <br>
   <br>I continuously update the playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!
 </p>
 
