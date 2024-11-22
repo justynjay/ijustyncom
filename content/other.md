@@ -28,7 +28,8 @@ title: 'Other Accounts'
   <a href="/gaming">@justynjay &#8594;</a>
 </h4>
 <p><br>
-  I stream on my PS5 to Twitch and YouTube. I mostly play Spider-Man and GTA V.
+  I stream on my PS5 to Twitch and YouTube. 
+  <br>I mostly play Spider-Man and GTA V.
 </p>
 
 <br><br><br>
@@ -75,7 +76,8 @@ Supports Pay, Google Pay, and credit/debit cards.
   </a>
 </h4>
 <p><br>
-  My listening profile on Apple Music. A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
+  My listening profile on Apple Music. 
+  <br>A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
   <br>I continuously update the playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!
 </p>
 
