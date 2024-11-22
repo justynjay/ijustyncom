@@ -176,6 +176,16 @@ h4 {
   font-size: large;
 }
 
+h4.item-title {
+  font-family: -apple-system, ui-sans-serif, system-ui, sans-serif;
+  font: -apple-system-headline;
+  letter-spacing: 1px;
+  font-stretch: ultra-expanded;
+  font-width: ultra-expanded;
+  font-weight: 900;
+  font-size: x-large;
+  }
+
 p { 
   font: -apple-system-body;
 }
