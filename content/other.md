@@ -17,8 +17,7 @@ title: 'Other Accounts'
 </h4>
 <p>
   Shot on my iPhone.
-  <iframe src="//rss.bloople.net/?url=http%3A%2F%2Fijustyn.com%2Fphotos%2Frss&limit=5&showtitle=false&type=html"></iframe>
-</p>
+  </p>
 
 <br><br><br>
 
