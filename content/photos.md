@@ -21,8 +21,6 @@ title: 'Photos &&#160;Videos'
   </div>
 </div>
 
-<br>
-
 <h3>
   Feed
 </h3>
