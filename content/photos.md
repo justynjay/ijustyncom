@@ -3,7 +3,9 @@ title: 'Photos &&#160;Videos'
 ---
 <center>
 
-<p>Shot on my iPhone.<br></p>
+<p>Shot on my iPhone.</p>
+
+<br>
 
 <p>
 <div class="row">
@@ -24,11 +26,12 @@ title: 'Photos &&#160;Videos'
   </div>
 </div>
 </p>
+
 <br>
+  
 <h3>
   Feed
 </h3>
-
 <h4>
     <a href="https://photos.ijustyn.com">
       <span class="icon relative inline-block align-text-bottom">
