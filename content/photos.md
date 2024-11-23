@@ -1,15 +1,19 @@
 ---
-title: 'Photos'
+title: 'Photos & Video'
 ---
 <center>
 
-<br><br>
+<br>
+
+<br>
   <p>
-    Shot on my iPhone. <br>
+    Shot on my iPhone. 
+    <br>
     <h4>
-  Subscribe
-  <br>
-  <a href="/rss">RSS</a> • <a href="/json">JSON</a></h4>
+      Follow
+      <br>
+      <a href="/rss">RSS</a> • <a href="/json">JSON</a>
+     </h4>
   </p>
   
 <div class="row">
