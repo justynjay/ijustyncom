@@ -2,7 +2,7 @@
 title: 'Photos &&#160;Videos'
 ---
 <center>
-
+<p>Shot on my iPhone.</p>
 <p><br><br></p>
 
 <h3>
