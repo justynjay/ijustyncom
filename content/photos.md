@@ -4,6 +4,7 @@ title: 'Photos &&#160;Videos'
 <center>
 
 <p>
+  <br>
 <div class="row">
   <div class="column">
     <a href="https://photos.ijustyn.com/i/cupd-pups-gcBvs-g360Z/">
@@ -21,6 +22,7 @@ title: 'Photos &&#160;Videos'
     </a>
   </div>
 </div>
+<br>
 </p>
 
 <h3>
