@@ -3,7 +3,7 @@ title: 'Photos &&#160;Videos'
 ---
 <center>
 
-<p><br></p>
+<p><br><br></p>
 
 <h3>
   Feed
@@ -38,7 +38,7 @@ title: 'Photos &&#160;Videos'
 </h4>
 <p><br>Follow on Meta's social network.</p>
 
-<p><br><br><br></p>
+<p><br></p>
 
 <div class="row">
   <div class="column">
