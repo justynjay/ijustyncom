@@ -2,6 +2,7 @@
 title: 'Photos &&#160;Videos'
 ---
 <center>
+<p>
   
 <div class="row">
   <div class="column">
@@ -20,6 +21,8 @@ title: 'Photos &&#160;Videos'
     </a>
   </div>
 </div>
+</p>
+
 
 <h3>
   Blog
@@ -52,7 +55,7 @@ Shot on my iPhone.
     </span> ijustyn &#8599;
   </a>
 </h4>
-Also shot on iPhone. 
+My photos but on social media. 
 
 <p><br><br><br></p>
 
