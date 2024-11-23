@@ -8,7 +8,7 @@ title: 'Photos'
     Shot on my iPhone. <br>
     <h4>
   Subscribe
-  <br><br>
+  <br>
   <a href="/rss">RSS</a> • <a href="/json">JSON</a></h4>
   </p>
 <br><br>
