@@ -3,10 +3,6 @@ title: 'Photos &&#160;Videos'
 ---
 <center>
 
-<p>Shot on my iPhone.</p>
-
-<br>
-
 <p>
 <div class="row">
   <div class="column">
