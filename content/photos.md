@@ -15,11 +15,11 @@ title: 'Photos &&#160;Videos'
   <p>
     Shot on my iPhone. 
     <br>
-    <h4>
-      Follow
+    <h3>
+      RSS Feed
       <br>
       <a href="/rss">RSS</a> • <a href="/json">JSON</a>
-     </h4>
+     </h>
   </p>
   
 <div class="row">
