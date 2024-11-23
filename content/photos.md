@@ -16,13 +16,13 @@ title: 'Photos'
 <p>
 <div class="row">
   <div class="column">
-    <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" style="width:100%">
+    <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" style="width:30%">
   </div>
   <div class="column">
-    <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" alt="Forest" style="width:100%">
+    <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" style="width:30%">
   </div>
   <div class="column">
-    <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" alt="Mountains" style="width:100%">
+    <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" style="width:30%">
   </div>
 </div>
 </span>
