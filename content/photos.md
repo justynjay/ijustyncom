@@ -39,7 +39,7 @@ title: 'Photos &&#160;Videos'
       Blog &#8599;
     </a>
 </h4>
-<p>Shot on my iPhone.</p>
+<p><br>Shot on my iPhone. Follow via open technologies</p>
   
 <p><br><br><br><br></p>
   
@@ -56,6 +56,7 @@ title: 'Photos &&#160;Videos'
     </span> ijustyn &#8599;
   </a>
 </h4>
+<p><br>Follow on Meta's social network.</p>
 
 <p><br><br><br></p>
 
