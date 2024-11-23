@@ -22,13 +22,13 @@ title: 'Photos &&#160;Videos'
   </a>
 </h4>
 
-<p><br><br><br></p>
+<p><br><br><br><br></p>
 
   <h3>
     Blog
   </h3>
   <h4>
-    <a href="https://ijustyn.com">Feed &#8594;</a>
+    <a href="https://ijustyn.com">Full Feed &#8594;</a>
   </h4>
 <br>
       
@@ -51,8 +51,6 @@ title: 'Photos &&#160;Videos'
   </div>
 </div>
 
-<h2>
-  <a href="https://photos.ijustyn.com/">More →</a>
-</h2>
+
 
 </center>
