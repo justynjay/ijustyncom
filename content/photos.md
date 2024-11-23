@@ -6,7 +6,10 @@ title: 'Photos'
 <br><br>
   <p>
     Shot on my iPhone. <br>
-    Subscribe via RSS & JSON.
+    <h4>
+  Subscribe
+  <br><br>
+  <a href="/rss">RSS</a> • <a href="/json">JSON</a></h4>
   </p>
 <br><br>
     
@@ -16,7 +19,7 @@ title: 'Photos'
 </p>
 
 <h2>
-  <a href="https://photos.ijustyn.com/?next_cursor=1461474660000&sort=newest_first">More →</a>
+  <a href="https://photos.ijustyn.com/">More →</a>
 </h2>
 
 </center>
