@@ -23,8 +23,8 @@ title: 'Photos'
   </div>
   <div class="column">
     <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/j85s3KuNgv4/image-69861557f11a1acfd8eb8467c9903bfe.jpeg" style="width:100%">
-  </a>
   </div>
+  </a>
 </div>
 
 <h2>
