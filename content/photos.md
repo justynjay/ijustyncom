@@ -17,9 +17,9 @@ title: 'Photos &&#160;Videos'
       Feed &#8599;
     </a>
 </h4>
-Shot on my iPhone.
+<p>Shot on my iPhone.</p>
   
-<p><br><br></p>
+<p><br></p>
   
 <p>
 <div class="row">
@@ -41,7 +41,7 @@ Shot on my iPhone.
 </div>
 </p>
 
-</p><br><br></p>
+
 
 <h3>
   Instagram
