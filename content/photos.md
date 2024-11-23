@@ -11,10 +11,10 @@ title: 'Photos'
   <br>
   <a href="/rss">RSS</a> • <a href="/json">JSON</a></h4>
   </p>
-<br><br>
+<br>
     
-<p>
-<div class="row">
+
+<div class="row"><a href="https://photos.ijustyn.com/">
   <div class="column">
     <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" style="width:100%">
   </div>
@@ -23,9 +23,9 @@ title: 'Photos'
   </div>
   <div class="column">
     <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/j85s3KuNgv4/image-69861557f11a1acfd8eb8467c9903bfe.jpeg" style="width:100%">
+  </a>
   </div>
 </div>
-</span>
 
 <h2>
   <a href="https://photos.ijustyn.com/">More →</a>
