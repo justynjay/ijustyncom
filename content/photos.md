@@ -14,8 +14,7 @@ title: 'Photos'
 <br><br>
     
 <p>
-  <script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fijustyn.com%2Fphotos%2Frss&showtitle=false&showempty=true&type=js">
-  </script>
+  <script src="//rss.bloople.net/?url=https%3A%2F%2Fphotos.ijustyn.com%2Frss&limit=3&showtitle=false&type=js"></script>
 </p>
 
 <h2>
