@@ -10,17 +10,6 @@ title: 'Other Accounts'
 <br><br>
 
 <h3>
-  <a href="/photos">Photos  &#8594;</a>
-</h3>
-<h4>
-  <a href="https://photos.ijustyn.com">Blog  &#8599;</a>
-</h4>
-<p><br>
-  Shot on my iPhone. </p>
-
-<br><br><br>
-
-<h3>
   Gaming
 </h3>
 <h4>
@@ -30,6 +19,17 @@ title: 'Other Accounts'
   I stream on my PS5 to Twitch and YouTube. 
   <br>I mostly play Spider-Man and GTA V.
 </p>
+
+<br><br><br>
+
+<h3>
+  <a href="/photos">Photos  &#8594;</a>
+</h3>
+<h4>
+  <a href="https://photos.ijustyn.com">Blog  &#8599;</a>
+</h4>
+<p><br>
+  Shot on my iPhone. </p>
 
 <br><br><br>
 
@@ -50,22 +50,6 @@ title: 'Other Accounts'
 </p>
 
 <br><br><br>
-
-<h3>
-  Payments &&#160;Tips
-</h3>
-<h4>
-  <a href="/tip" target="_blank">
-    $ Pay &#8599;
-  </a>
-</h4>
-<p><br>
-  Uses Square's payments platform.
-<br>
-Supports Pay, Google Pay, and credit/debit cards. 
-</p>
-
-<br><br><br>
     
 <h3>
   Music
@@ -80,6 +64,22 @@ Supports Pay, Google Pay, and credit/debit cards.
   <br>A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
   <br>
   <br>I continuously update the playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!
+</p>
+
+<br><br><br>
+
+<h3>
+  Payments &&#160;Tips
+</h3>
+<h4>
+  <a href="/tip" target="_blank">
+    $ Pay &#8599;
+  </a>
+</h4>
+<p><br>
+  Uses Square's payments platform.
+<br>
+Supports Pay, Google Pay, and credit/debit cards. 
 </p>
 
 <br><br><br>
