@@ -22,7 +22,7 @@ title: 'Photos &&#160;Videos'
   </a>
 </h4>
 
-<p><br><br>
+<p><br></p>
   
 <div class="row">
   <div class="column">
@@ -42,7 +42,7 @@ title: 'Photos &&#160;Videos'
   </div>
 </div>
 
-<br><br></p>
+<p><br></p>
 
   <h3>
     Blog
