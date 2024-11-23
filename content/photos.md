@@ -58,6 +58,6 @@ title: 'Photos &&#160;Videos'
   </div>
 </div>
 
-<p><br><br><br></p>
+<p><br><br></p>
 
 </center>
