@@ -37,7 +37,7 @@ title: 'Photos &&#160;Videos'
       Blog &#8599;
     </a>
 </h4>
-<p><br>Shot on my iPhone. <br>Follow via open technologies</p>
+<p><br>Follow via open technologies.</p>
   
 <p><br><br><br><br></p>
   
