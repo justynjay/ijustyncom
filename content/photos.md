@@ -11,12 +11,7 @@ title: 'Photos'
   <br>
   <a href="/rss">RSS</a> • <a href="/json">JSON</a></h4>
   </p>
-<br>
-    
-<h2>
-  <a href="https://photos.ijustyn.com/">Feed →</a>
-</h2>
-
+  
 <div class="row">
   <div class="column">
     <a href="https://photos.ijustyn.com/i/cupd-pups-gcBvs-g360Z/">
@@ -33,7 +28,10 @@ title: 'Photos'
       <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/j85s3KuNgv4/image-69861557f11a1acfd8eb8467c9903bfe.jpeg" style="width:100%">
     </a>
   </div>
-  
 </div>
+
+<h2>
+  <a href="https://photos.ijustyn.com/">More →</a>
+</h2>
 
 </center>
