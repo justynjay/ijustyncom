@@ -6,10 +6,10 @@ title: 'Photos &&#160;Videos'
   Shot on my iPhone. 
 </p>
 
-<br>
+<br><br>
 
 <h3>
-  Instagram
+  Instagram &#8594;
 </h3>
 <h4>
   <a href="https://instagram.com/ijustyn">
@@ -22,13 +22,13 @@ title: 'Photos &&#160;Videos'
   </a>
 </h4>
 
-<br>
+<p><br><br><br></p>
 
   <h3>
     Blog
   </h3>
   <h4>
-    <a href="https://ijustyn.com">Feed</a>
+    <a href="https://ijustyn.com">Feed &#8594;</a>
     <a href="/rss">RSS</a> • <a href="/json">JSON</a>
   </h4>
 <br>
