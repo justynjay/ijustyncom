@@ -2,9 +2,6 @@
 title: 'Photos &&#160;Videos'
 ---
 <center>
-<p>
-  Shot on my iPhone
-</p>
 
 <div class="row">
   <div class="column">
@@ -23,6 +20,10 @@ title: 'Photos &&#160;Videos'
     </a>
   </div>
 </div>
+
+<p>
+  Shot on my iPhone
+</p>
 
 <h3>
   Blog
