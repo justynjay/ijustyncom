@@ -30,7 +30,6 @@ title: 'Photos &&#160;Videos'
   <h4>
     <a href="https://ijustyn.com">Full Feed &#8594;</a>
   </h4>
-<br>
       
   
 <div class="row">
