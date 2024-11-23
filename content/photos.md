@@ -2,10 +2,13 @@
 title: 'Photos &&#160;Videos'
 ---
 <center>
-  
+
+<p>Shot on my iPhone.</p>
+
 <h3>
   Feed
 </h3>
+
 <h4>
     <a href="https://photos.ijustyn.com">
       <span class="icon relative inline-block align-text-bottom">
@@ -17,7 +20,6 @@ title: 'Photos &&#160;Videos'
       Blog &#8599;
     </a>
 </h4>
-<p>Shot on my iPhone.</p>
   
 <br>
   
