@@ -14,8 +14,7 @@ title: 'Photos'
 <br><br>
     
 <p>
-  <script src="//rss.bloople.net/?url=https%3A%2F%2Fphotos.ijustyn.com%2Frss&limit=3&showtitle=false&type=js"></script>
-</p>
+  <script src="//rss.bloople.net/?url=https%3A%2F%2Fphotos.ijustyn.com%2Frss&limit=1&showtitle=false&type=js"></script></p>
 
 <h2>
   <a href="https://photos.ijustyn.com/">More →</a>
