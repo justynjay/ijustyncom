@@ -1,9 +1,12 @@
 ---
-title: 'Photos &&#160;Video'
+title: 'Photos &&#160;Videos'
 ---
 <center>
 
 <br>
+
+<h3>Instagram</h3>
+
 
 <br>
   <p>
