@@ -14,9 +14,7 @@ title: 'Photos'
 <br><br>
     
 <p>
-  <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" width="33%">
-<img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" width="33%">
-<img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" width="33%">
+<img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" width="30%"><img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" width="30%"><img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" width="30%">
 
 
 <h2>
