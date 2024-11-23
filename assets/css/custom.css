@@ -233,7 +233,7 @@ p {
   color: black;
 }
 
-Example
+
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
@@ -247,3 +247,13 @@ Example
   clear: both;
   display: table;
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 0px;
+}
+
