@@ -21,10 +21,6 @@ title: 'Photos &&#160;Videos'
   </div>
 </div>
 
-<p>
-  Shot on my iPhone
-</p>
-
 <h3>
   Blog
 </h3>
@@ -38,7 +34,8 @@ title: 'Photos &&#160;Videos'
       </span>
       Feed &#8599;
     </a>
-  </h4>
+</h4>
+Shot on my iPhone.
   
 <p><br><br><br><br></p>
 
@@ -55,6 +52,7 @@ title: 'Photos &&#160;Videos'
     </span> ijustyn &#8599;
   </a>
 </h4>
+Also shot on iPhone. 
 
 <p><br><br><br></p>
 
