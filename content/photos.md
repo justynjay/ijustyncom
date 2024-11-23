@@ -4,7 +4,7 @@ title: 'Photos &&#160;Videos'
 <center>
   
 <h3>
-  Blog
+  Feed
 </h3>
 <h4>
     <a href="https://photos.ijustyn.com">
@@ -14,7 +14,7 @@ title: 'Photos &&#160;Videos'
           </path>
         </svg>
       </span>
-      Feed &#8599;
+      Blog &#8599;
     </a>
 </h4>
 <p>Shot on my iPhone.</p>
