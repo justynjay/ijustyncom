@@ -19,7 +19,7 @@ title: 'Photos &&#160;Videos'
 </h4>
 <p>Shot on my iPhone.</p>
   
-<p><br></p>
+<br>
   
 <p>
 <div class="row">
@@ -40,8 +40,6 @@ title: 'Photos &&#160;Videos'
   </div>
 </div>
 </p>
-
-
 
 <h3>
   Instagram
