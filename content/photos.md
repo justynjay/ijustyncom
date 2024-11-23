@@ -23,8 +23,6 @@ title: 'Photos &&#160;Videos'
 </div>
 </p>
 
-<br>
-  
 <h3>
   Feed
 </h3>
