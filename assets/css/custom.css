@@ -235,12 +235,6 @@ p {
 
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 0px;
-}
-
 /* Clear floats after image containers */
 .row::after {
   content: "";
@@ -253,7 +247,8 @@ p {
 }
 
 .column {
+  float: left;
   flex: 33.33%;
-  padding: 0px;
+  padding: 2px;
 }
 
