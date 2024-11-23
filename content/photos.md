@@ -1,5 +1,5 @@
 ---
-title: 'Photos & Video'
+title: 'Photos &&#160;Video'
 ---
 <center>
 
