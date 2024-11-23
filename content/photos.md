@@ -3,7 +3,7 @@ title: 'Photos &&#160;Videos'
 ---
 <center>
 
-<p>Shot on my iPhone.</p>
+<p>Shot on my iPhone.<br></p>
 
 <p>
 <div class="row">
