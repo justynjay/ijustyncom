@@ -42,12 +42,12 @@ title: 'Photos &&#160;Videos'
   </div>
 </div>
 
-<p><br></p>
+<br>
 
-  <h3>
-    Blog
-  </h3>
-  <h4>
+<h3>
+  Blog
+</h3>
+<h4>
     <a href="https://photos.ijustyn.com">
       <span class="icon relative inline-block align-text-bottom">
         <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="link" class="svg-inline--fa fa-link fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
