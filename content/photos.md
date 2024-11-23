@@ -40,7 +40,7 @@ title: 'Photos &&#160;Videos'
 </h4>
 <p><br>Follow via open technologies.</p>
   
-<p><br><br><br><br></p>
+<p><br><br><br></p>
   
 <h3>
   Instagram
