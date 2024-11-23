@@ -28,7 +28,7 @@ title: 'Photos &&#160;Videos'
     Blog
   </h3>
   <h4>
-    Feed
+    <a href="https://ijustyn.com">Feed</a>
     <a href="/rss">RSS</a> • <a href="/json">JSON</a>
   </h4>
 <br>
