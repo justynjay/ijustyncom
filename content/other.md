@@ -10,10 +10,10 @@ title: 'Other Accounts'
 <br><br>
 
 <h3>
-  Photos
+  <a href="/photos">Photos  &#8594;</a>
 </h3>
 <h4>
-  <a href="/photos">Blog  &#8594;</a>
+  <a href="https://photos.ijustyn.com">Blog  &#8599;</a>
 </h4>
 <p><br>
   Shot on my iPhone. </p>
