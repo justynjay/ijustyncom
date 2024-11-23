@@ -56,7 +56,6 @@ title: 'Photos &&#160;Videos'
     </span> ijustyn &#8599;
   </a>
 </h4>
-My photos but on social media. 
 
 <p><br><br><br></p>
 
