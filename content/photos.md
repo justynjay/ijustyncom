@@ -39,6 +39,7 @@ title: 'Photos &&#160;Videos'
       Blog &#8599;
     </a>
 </h4>
+<p>Shot on my iPhone.</p>
   
 <p><br><br><br><br></p>
   
