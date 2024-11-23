@@ -6,7 +6,7 @@ title: 'Photos &&#160;Videos'
   Shot on my iPhone
 </p>
 
-<br><br>
+<br>
 
 <div class="row">
   <div class="column">
@@ -26,7 +26,7 @@ title: 'Photos &&#160;Videos'
   </div>
 </div>
 
-<br><br>
+<br>
 
 <h3>
   Instagram
@@ -42,7 +42,7 @@ title: 'Photos &&#160;Videos'
   </a>
 </h4>
 
-<p><br></p>
+<p><br><br><br></p>
 
 <h3>
   Blog
