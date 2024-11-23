@@ -7,7 +7,7 @@ title: 'Other Accounts'
   You can also find me at these locations if you are interested!
 </p>
 
-<br><br>
+<p><br><br><br></p>
 
 <h3>
   Gaming
@@ -20,7 +20,7 @@ title: 'Other Accounts'
   <br>I mostly play Spider-Man and GTA V.
 </p>
 
-<br><br><br>
+<p><br><br><br></p>
 
 <h3>
   <a href="/photos">Photos  &#8594;</a>
@@ -31,7 +31,7 @@ title: 'Other Accounts'
 <p><br>
   Shot on my iPhone. </p>
 
-<br><br><br>
+<p><br><br><br></p>
 
 <h3>Tumblr</h3>
 <h4>
@@ -49,7 +49,7 @@ title: 'Other Accounts'
   <br>Mostly reblogs. <i>Viewer discretion advised.</i>
 </p>
 
-<br><br><br>
+<p><br><br><br></p>
     
 <h3>
   Music
@@ -66,7 +66,7 @@ title: 'Other Accounts'
   <br>I continuously update the playlist <a href="/justyn-now">Justyn Now</a> if you want an easy way to keep up!
 </p>
 
-<br><br><br>
+<p><br><br><br></p>
 
 <h3>
   Payments &&#160;Tips
@@ -82,6 +82,6 @@ title: 'Other Accounts'
 Supports Pay, Google Pay, and credit/debit cards. 
 </p>
 
-<br><br><br>
+<p><br><br><br></p>
     
 </center>
