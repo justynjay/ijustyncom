@@ -29,7 +29,6 @@ title: 'Photos &&#160;Videos'
   </h3>
   <h4>
     <a href="https://ijustyn.com">Feed &#8594;</a>
-    <a href="/rss">RSS</a> • <a href="/json">JSON</a>
   </h4>
 <br>
       
