@@ -9,6 +9,17 @@ title: 'Other Accounts'
 <p><br><br><br></p>
 
 <h3>
+  <a href="/photos">Photos  &#8594;</a>
+</h3>
+<h4>
+  <a href="https://photos.ijustyn.com">Blog  &#8599;</a>
+</h4>
+<p><br>
+  Shot on my iPhone. </p>
+
+<p><br><br><br></p>
+
+<h3>
   Gaming
 </h3>
 <h4>
@@ -18,17 +29,6 @@ title: 'Other Accounts'
   I stream on my PS5 to Twitch and YouTube. 
   <br>I mostly play Spider-Man and GTA V.
 </p>
-
-<p><br><br><br></p>
-
-<h3>
-  <a href="/photos">Photos  &#8594;</a>
-</h3>
-<h4>
-  <a href="https://photos.ijustyn.com">Blog  &#8599;</a>
-</h4>
-<p><br>
-  Shot on my iPhone. </p>
 
 <p><br><br><br></p>
 
