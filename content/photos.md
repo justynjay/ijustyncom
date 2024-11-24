@@ -47,7 +47,7 @@ title: 'Photos &&#160;Videos'
     </a>
   </div>
   <div class="column">
-    <a href="https://photos.ijustyn.com/i/colors-in-bloom-ibXkRbvxmzE//">
+    <a href="https://photos.ijustyn.com/i/colors-in-bloom-ibXkRbvxmzE/">
       <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/ibXkRbvxmzE/image-f123dbb5ccb66d1d5f1a14c2fa3e51b9.jpeg" style="width:100%">
     </a>
   </div>
