@@ -43,12 +43,12 @@ title: 'Photos &&#160;Videos'
 <div class="row">
   <div class="column">
     <a href="https://photos.ijustyn.com/i/cupd-pups-gcBvs-g360Z/">
-      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/gcBvs-g360Z/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" style="width:100%">
+      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/image-f87af0fb61a18da37d82dd7c8ace1f19.jpeg" style="width:100%">
     </a>
   </div>
   <div class="column">
     <a href="https://photos.ijustyn.com/i/iridescence-7kUUGlNt_1E/">
-      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/7kUUGlNt_1E/image-d9848eb453e1c26b4e92396c2a04f7c8.jpeg" style="width:100%">
+      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/image-d9848eb453e1c26b4e92396c2a04f7c8.jpeg" style="width:100%">
     </a>
   </div>
   <div class="column">
