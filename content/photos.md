@@ -48,7 +48,7 @@ title: 'Photos &&#160;Videos'
   </div>
   <div class="column">
     <a href="/">
-      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/-XAyB19ZkXl/image-9ac3d902592ccf62b82d9f6ee6694d1e.jpeg" style="width:100%">
+      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/-XAyB19ZkXl/image-6535031c6122d1fb1fb958511cddcb59.jpeg" style="width:100%">
     </a>
   </div>
   <div class="column">
