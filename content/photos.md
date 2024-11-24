@@ -52,8 +52,8 @@ title: 'Photos &&#160;Videos'
     </a>
   </div>
   <div class="column">
-    <a href="https://photos.ijustyn.com/i/ultra-slim--XAyB19ZkXl/">
-      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/-XAyB19ZkXl/image-6535031c6122d1fb1fb958511cddcb59.jpeg" style="width:100%">
+    <a href="https://photos.ijustyn.com/i/not-pink-butterfly-0C9kFpL--F9/">
+      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/image-c4d98e93c8c454f4ab4c7c8bae75108b.jpegXAyB19ZkXl/image-6535031c6122d1fb1fb958511cddcb59.jpeg" style="width:100%">
     </a>
   </div>
 </div>
