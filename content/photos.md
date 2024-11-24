@@ -43,7 +43,7 @@ title: 'Photos &&#160;Videos'
 <div class="row">
   <div class="column">
     <a href="https://photos.ijustyn.com/i/iridescence-7kUUGlNt_1E/">
-      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/7kUUGlNt_1E/image-79603091f53becbf073f44f5982b703e.jpeg" style="width:100%">
+      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/7kUUGlNt_1E/image-8d028ee1b7c597c4b022489fd1efc0ad.jpeg" style="width:100%">
     </a>
   </div>
   <div class="column">
