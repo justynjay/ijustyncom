@@ -42,7 +42,7 @@ title: 'Photos &&#160;Videos'
 
 <div class="row">
   <div class="column">
-    <a href="https://photos.ijustyn.com/i/iridescence-7kUUGlNt_1E/">
+    <a href="/">
       <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/7kUUGlNt_1E/image-8d028ee1b7c597c4b022489fd1efc0ad.jpeg" style="width:100%">
     </a>
   </div>
@@ -52,8 +52,8 @@ title: 'Photos &&#160;Videos'
     </a>
   </div>
   <div class="column">
-    <a href="https://photos.ijustyn.com/i/colors-in-bloom-ibXkRbvxmzE/">
-      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/ibXkRbvxmzE/image-f123dbb5ccb66d1d5f1a14c2fa3e51b9.jpeg" style="width:100%">
+    <a href="/">
+      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/7kUUGlNt_1E/image-d9848eb453e1c26b4e92396c2a04f7c8.jpeg" style="width:100%">
     </a>
   </div>
 </div>
