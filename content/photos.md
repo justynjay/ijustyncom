@@ -42,18 +42,18 @@ title: 'Photos &&#160;Videos'
 
 <div class="row">
   <div class="column">
-    <a href="/">
+    <a href="https://photos.ijustyn.com/i/iridescence-7kUUGlNt_1E/">
       <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/7kUUGlNt_1E/image-8d028ee1b7c597c4b022489fd1efc0ad.jpeg" style="width:100%">
     </a>
   </div>
   <div class="column">
-    <a href="/">
+    <a href="https://photos.ijustyn.com/i/ultra-slim--XAyB19ZkXl/">
       <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/-XAyB19ZkXl/image-6535031c6122d1fb1fb958511cddcb59.jpeg" style="width:100%">
     </a>
   </div>
   <div class="column">
-    <a href="/">
-      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/7kUUGlNt_1E/image-d9848eb453e1c26b4e92396c2a04f7c8.jpeg" style="width:100%">
+    <a href="https://photos.ijustyn.com/i/iridescence-7kUUGlNt_1E/">
+      <img src="https://photos.ijustyn.com/i/cupd-pups-gcBvs-g360Z/" style="width:100%">
     </a>
   </div>
 </div>
