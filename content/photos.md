@@ -48,7 +48,7 @@ title: 'Photos &&#160;Videos'
   </div>
   <div class="column">
     <a href="https://photos.ijustyn.com/i/tacos-in-color-j85s3KuNgv4/">
-      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/j85s3KuNgv4/image-69861557f11a1acfd8eb8467c9903bfe.jpeg" style="width:100%">
+      <img src="https://files.ijustyn.com/feed-ijustyn-com/production/media/rich-editor/items/j85s3KuNgv4/image-d64ff32e2307702d7c4f1878e362ddb8.jpeg" style="width:100%">
     </a>
   </div>
   <div class="column">
