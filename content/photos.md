@@ -36,7 +36,7 @@ title: 'Photos &&#160;Videos'
     </span> ijustyn &#8599;
   </a>
 </h4>
-<p><br>Follow via Meta's social network.</p>
+<p><br>Follow via Meta.</p>
 
 <p><br><br></p>
 
