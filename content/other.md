@@ -77,7 +77,7 @@ title: 'Other Accounts'
   My listening profile on Apple Music. 
   <br>A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
   </p><h4>
-  <a href="/apple-music" target="_blank">
+  <a href="/justyn-now" target="_blank">
      Justyn Now &#8599;
   </a>
 </h4>
