@@ -5,15 +5,27 @@ title: 'Music'
 <p>My favorite music. </p>
 <p><br><br></p>
   
-<h3>
-  Music
-</h3>
+<h3>Music</h3>
 <h4>
-  <a href="/apple-music">
+  <a href="/apple-music" target="_blank">
     @ijustyn &#8599;
   </a>
 </h4>
-<p><br>My listening profile on Apple Music.</p>
+<p><br>
+  My listening profile on Apple Music. 
+  <br>A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
+  </p>
+<p><br><br></p>
+<h3>Playlists</h3>
+<h4>
+  <a href="/justyn-now" target="_blank">
+     Justyn Now &#8599;
+  </a>
+</h4>
+<p>
+  <br>I continuously update this playlist if you want an easy way to keep up!
+</p>
+
 
 <p><br><br></p>
 
