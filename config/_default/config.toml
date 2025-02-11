@@ -3,7 +3,8 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Justyn McCabe (@ijustyn)"
-copyright = "[Created by jjay•org © 2024](https://jjay.org/websites)"
+copyright = "[Created by jjay•org © 2025](https://jjay.org/websites)"
+description = "All the projects and accounts of @ijustyn. Follow me… to the future!"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
