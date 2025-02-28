@@ -9,7 +9,7 @@ title: 'Other Accounts'
 <p><br><br><br></p>
 
 <h3>
-  <a href="/photos">Photos  &#8594;</a>
+  Photos
 </h3>
 <h4>
   <a href="https://photos.ijustyn.com">
