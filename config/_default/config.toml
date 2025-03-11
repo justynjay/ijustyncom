@@ -15,12 +15,12 @@ disableKinds = ["taxonomy", "term"]
    image = "img/author.jpg"  # path relative to static directory
 
   links = [
-
+{ bluesky 	= { href = "https://bsky.app/profile/ijustyn.com", rel="me" } },
 
     { instagram = { href = "https://instagram.com/ijustyn", title = "@ijustyn on Instagram" } },
     { threads   = { href = "https://threads.net/ijustyn", rel="me" } },
     { mastodon  = { href = "https://masto.ai/@ijustyn", rel="me" } },     
-    { bluesky 	= { href = "https://bsky.app/profile/ijustyn.com", rel="me" } },
+    
     { more     = { href = "/other", text = "More", title = "More Accounts", target = "_self", icon = "email" } },
     # { pay       = { href = "/photos", text = "Photos", title = "Justyn's Photos", target = "_self", icon = "link" } },
 
