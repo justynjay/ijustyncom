@@ -3,7 +3,7 @@ title: 'Other Accounts'
 ---
 <center>
 <p>
-  You can also find me at these locations if you are interested!
+  You can also find me at these locations:
 </p>
 
 <p><br><br><br></p>
