@@ -2,8 +2,8 @@ baseURL = "https://ijustyn.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Justyn McCabe (@ijustyn)"
-copyright = "[Created by jjay•org © 2025](https://jjay.org/websites)"
+title = "Justyn McCabe"
+copyright = "[Created by jjay•org © 2026](https://jjay.org/websites)"
 description = "All the projects and accounts of @ijustyn. Follow me… to the future!"
 
 enableEmoji = true
@@ -15,12 +15,10 @@ disableKinds = ["taxonomy", "term"]
    image = "img/author.jpg"  # path relative to static directory
 
   links = [
-{ bluesky 	= { href = "https://bsky.app/profile/ijustyn.com", rel="me" } },
-
+    { bluesky 	= { href = "https://bsky.app/profile/ijustyn.com", rel="me" } },
     { instagram = { href = "https://instagram.com/ijustyn", title = "@ijustyn on Instagram" } },
     { threads   = { href = "https://threads.net/ijustyn", rel="me" } },
     { mastodon  = { href = "https://masto.ai/@ijustyn", rel="me" } },     
-    
     { more     = { href = "/other", text = "More", title = "More Accounts", target = "_self", icon = "email" } },
     # { pay       = { href = "/photos", text = "Photos", title = "Justyn's Photos", target = "_self", icon = "link" } },
 
