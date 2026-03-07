@@ -26,7 +26,7 @@ title: 'Other Accounts'
   Shot on my iPhone. </p>
 
 <p><br><br><br></p>
-<?
+<script>/*
 <h3>
   Gaming
 </h3>
@@ -46,7 +46,7 @@ title: 'Other Accounts'
 </p>
 
 <p><br><br><br></p>
-?>
+*/</script>
 <h3>Tumblr</h3>
 <h4>
   <a href="/tumblr" target="_blank">
