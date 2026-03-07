@@ -75,15 +75,16 @@ title: 'Other Accounts'
   <br>Apple Music Profile
 </h4>
 <p><br>
-  ## My listening profile on Apple Music. <br>
+  # My listening profile on Apple Music. <br>
     A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
   </p><h4>
   <a href="/justyn-now" target="_blank">
      Justyn Now &#8599;
   </a>
+  <br>Apple Music Playlist
 </h4>
 <p>
-  <br>I continuously update this playlist if you want an easy way to keep up!
+  <br>Continuously updated with all the songs I have on repeat!
 </p>
 
 <p><br><br><br></p>
