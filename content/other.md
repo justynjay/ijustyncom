@@ -24,8 +24,7 @@ title: 'Other Accounts'
 </h4>
 <p>
   Shot on my iPhone.
-</p><p>
-<i>Under development</i>
+  <i>Under development.</i>
 </p>
 
 <p><br><br><br></p>
@@ -64,7 +63,7 @@ title: 'Other Accounts'
 <p>
   Microblog of my favorite things in pop culture. 
   Mostly reblogs.
-  <i>Viewer discretion advised</i>
+  <i>Viewer discretion advised.</i>
 </p>
 
 <p><br><br><br></p>
