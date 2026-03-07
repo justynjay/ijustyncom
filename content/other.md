@@ -72,6 +72,7 @@ title: 'Other Accounts'
   <a href="/apple-music" target="_blank">
      @ijustyn &#8599;
   </a>
+  <br>Apple Music Profile
 </h4>
 <p><br>
   My listening profile on Apple Music. 
