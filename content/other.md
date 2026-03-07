@@ -23,7 +23,7 @@ title: 'Other Accounts'
   </a>
 </h4>
 <p><br>
-  Shot on my iPhone. </p>
+  Shot on my iPhone. <i>Under development.</i></p>
 
 <p><br><br><br></p>
 <script>/*
