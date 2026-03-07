@@ -21,7 +21,7 @@ title: 'Other Accounts'
       </span> 
     Blog  &#8599;
   </a>
-  <br>Under development
+  <br><br>Under development
 </h4>
 <p><br>
   Shot on my iPhone.</p>
@@ -58,7 +58,7 @@ title: 'Other Accounts'
       </svg>
   </span> @ijustyn &#8599;
   </a>
-  <br>Viewer discretion advised
+  <br><br>Viewer discretion advised
 </h4>
 <p><br>
   Microblog of my favorite things in pop culture. 
