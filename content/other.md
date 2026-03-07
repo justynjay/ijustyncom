@@ -77,9 +77,10 @@ title: 'Other Accounts'
   </a>
   <br>Profile
 </h4>
-<p><br>
+<p>
     A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
 </p>
+<br>
 <h4>
   <a href="/justyn-now" target="_blank">
      Justyn Now &#8599;
@@ -87,7 +88,7 @@ title: 'Other Accounts'
   <br>Playlist
 </h4>
 <p>
-  <br>Continuously updated with all the songs I have on repeat!
+  Continuously updated with all the songs I have on repeat!
 </p>
 
 <p><br><br><br></p>
@@ -100,7 +101,7 @@ title: 'Other Accounts'
     $ Pay &#8599;
   </a>
 </h4>
-<p><br>
+<p>
   Uses Square's payments platform.
 <br>
 Supports Pay, Google Pay, and credit/debit cards. 
