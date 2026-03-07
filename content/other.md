@@ -21,9 +21,10 @@ title: 'Other Accounts'
       </span> 
     Blog  &#8599;
   </a>
+  <br>Under development
 </h4>
 <p><br>
-  Shot on my iPhone. <br><i>Under development.</i></p>
+  Shot on my iPhone.</p>
 
 <p><br><br><br></p>
 <script>/*
@@ -57,10 +58,11 @@ title: 'Other Accounts'
       </svg>
   </span> @ijustyn &#8599;
   </a>
+  <br>Viewer discretion advised
 </h4>
 <p><br>
   Microblog of my favorite things in pop culture. 
-  Mostly reblogs. <br><i>Viewer discretion advised.</i>
+  Mostly reblogs.
 </p>
 
 <p><br><br><br></p>
@@ -76,8 +78,8 @@ title: 'Other Accounts'
 </h4>
 <p><br>
     A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
-  <br>
-</p><h4>
+</p><br>
+<h4>
   <a href="/justyn-now" target="_blank">
      Justyn Now &#8599;
   </a>
