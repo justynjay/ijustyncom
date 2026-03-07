@@ -23,7 +23,7 @@ title: 'Other Accounts'
   </a>
 </h4>
 <p><br>
-  Shot on my iPhone. <i>Under development.</i></p>
+  Shot on my iPhone. <br><i>Under development.</i></p>
 
 <p><br><br><br></p>
 <script>/*
@@ -60,7 +60,7 @@ title: 'Other Accounts'
 </h4>
 <p><br>
   Microblog of my favorite things in pop culture. 
-  <br>Mostly reblogs. <i>Viewer discretion advised.</i>
+  Mostly reblogs. <br><i>Viewer discretion advised.</i>
 </p>
 
 <p><br><br><br></p>
@@ -72,7 +72,7 @@ title: 'Other Accounts'
   <a href="/apple-music" target="_blank">
      @ijustyn &#8599;
   </a>
-  <br>Apple Music Profile
+  <br>Profile
 </h4>
 <p><br>
   # My listening profile on Apple Music. <br>
@@ -81,7 +81,7 @@ title: 'Other Accounts'
   <a href="/justyn-now" target="_blank">
      Justyn Now &#8599;
   </a>
-  <br>Apple Music Playlist
+  <br>Playlist
 </h4>
 <p>
   <br>Continuously updated with all the songs I have on repeat!
