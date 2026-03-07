@@ -2,6 +2,7 @@
 title: 'Other Accounts'
 ---
 <center>
+  
 <p>
   You can also find me at these locations:
 </p>
@@ -11,6 +12,7 @@ title: 'Other Accounts'
 <h3>
   Photos
 </h3>
+
 <h4>
   <a href="https://photos.ijustyn.com">
     <span class="icon relative inline-block align-text-bottom">
@@ -22,12 +24,14 @@ title: 'Other Accounts'
     Blog  &#8599;
   </a>
 </h4>
+
 <p>
-  Shot on my iPhone.
+  Shot on my iPhone.<br>
   <i>Under development.</i>
 </p>
 
 <p><br><br><br></p>
+
 <script>/*
 <h3>
   Gaming
@@ -46,10 +50,11 @@ title: 'Other Accounts'
   I stream on my PS5 to Twitch and YouTube. 
   <br>I mostly play Spider-Man and GTA V.
 </p>
-
 <p><br><br><br></p>
 */</script>
+
 <h3>Tumblr</h3>
+
 <h4>
   <a href="/tumblr" target="_blank">
     <span class="icon relative inline-block align-text-bottom">
@@ -60,9 +65,10 @@ title: 'Other Accounts'
   </span> @ijustyn &#8599;
   </a>
 </h4>
+
 <p>
   Microblog of my favorite things in pop culture. 
-  Mostly reblogs.
+  Mostly reblogs.<br>
   <i>Viewer discretion advised.</i>
 </p>
 
@@ -71,22 +77,25 @@ title: 'Other Accounts'
 <h3>
   Music
 </h3>
+
 <h4>
   <a href="/apple-music" target="_blank">
      @ijustyn &#8599;
   </a>
   <br>Profile
 </h4>
+
 <p>
     A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
 </p>
-<br>
+
 <h4>
   <a href="/justyn-now" target="_blank">
      Justyn Now &#8599;
   </a>
   <br>Playlist
 </h4>
+
 <p>
   Continuously updated with all the songs I have on repeat!
 </p>
@@ -96,6 +105,7 @@ title: 'Other Accounts'
 <h3>
   Payments &&#160;Tips
 </h3>
+
 <h4>
   <a href="/tip" target="_blank">
     $ Pay &#8599;
