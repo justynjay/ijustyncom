@@ -2,7 +2,7 @@
 title: 'Music'
 ---
 <center>
-<p>My favorite music. </p>
+<p>My favorite music.</p>
 <p><br><br></p>
   
 <h3>Music</h3>
@@ -11,9 +11,9 @@ title: 'Music'
     @ijustyn &#8599;
   </a>
 </h4>
-<p><br>
+<p>
   My listening profile on Apple Music. 
-  <br>A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
+  <br>A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade.
   </p>
 <p><br><br></p>
 <h3>Playlists</h3>
@@ -22,7 +22,6 @@ title: 'Music'
      Justyn Now &#8599;
   </a>
 </h4>
-<p>
   <br>I continuously update this playlist if you want an easy way to keep up!
 </p>
 
