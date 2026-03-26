@@ -13,8 +13,7 @@ title: 'Music'
   <br>Profile
 </h4>
 <p>
-  My listening profile on Apple Music. 
-  <br>A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade.
+  A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade.
   </p>
 <p><br><br></p>
 <h3>Playlists</h3>
@@ -24,16 +23,16 @@ title: 'Music'
   </a>
   <br>Created by Me
 </h4>
-  <br>I continuously update this playlist if you want an easy way to keep up!
+  <p>I continuously update this playlist if you want an easy way to keep up!
 </p>
-
+<br>
 <h4>
   <a href="/heavy-rotation" target="_blank">
      Heavy Rotation &#8599;
   </a>
   <br>Algorithmic
 </h4>
-  <br>Daily updated playlist by Apple Music of the songs I've got on repeat.
+  <p>Daily updated playlist by Apple Music of the songs I've got on repeat.
 </p>
 
 
