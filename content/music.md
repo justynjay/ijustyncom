@@ -8,7 +8,7 @@ title: 'Music'
 <h3>Music</h3>
 <h4>
   <a href="/apple-music" target="_blank">
-    @ijustyn &#8599;
+     @ijustyn &#8599;
   </a>
   <br>Profile
 </h4>
