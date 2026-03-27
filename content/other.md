@@ -57,10 +57,10 @@ title: 'Other Accounts'
      @ijustyn &#8599;
   </a>
   <br>
-    Music Profile
+    Music
 </h4>
 <p>
-    A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
+    A profile of carefully curated playlists that are a perfect encapsulation of my music tastes over more than a decade. 
 </p>
 
 <script>/*
@@ -91,7 +91,7 @@ title: 'Other Accounts'
       </svg>
   </span> @ijustyn &#8599;
   </a>
-  <br>Viewer discretion advised
+  <br>Viewer Discretion Advised
 </h4>
 
 <p>
@@ -116,7 +116,7 @@ title: 'Other Accounts'
       </span> 
     Blog  &#8599;
   </a>
-  <br>Under development
+  <br>Under Development
 </h4>
 
 <p>
