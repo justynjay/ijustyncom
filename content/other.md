@@ -67,6 +67,8 @@ title: 'Other Accounts'
     A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
 </p>
 
+<script>/*
+
 <h4>
   <a href="/justyn-now" target="_blank">
      Justyn Now &#8599;
@@ -77,6 +79,8 @@ title: 'Other Accounts'
 <p>
   Continuously updated with all the songs I have on repeat!
 </p>
+
+*/</script>
 
 <p><br><br><br></p>
 
