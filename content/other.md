@@ -84,7 +84,8 @@ title: 'Other Accounts'
 <p><br><br><br></p>
 
 <h3>
-  Photos
+    <a href="/photos">Photos &#8594;
+    </a>
 </h3>
 
 <h4>
