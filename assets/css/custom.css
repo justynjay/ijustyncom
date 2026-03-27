@@ -258,3 +258,14 @@ p {
   padding: 2px;
 }
 
+
+.module h1 {
+  font-size: 1em;
+  container-name: sidebar
+}
+
+@container sidebar (min-width: 700px) {
+  .module h1 {
+    font-size: 2em;
+  }
+}
