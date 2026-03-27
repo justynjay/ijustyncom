@@ -3,7 +3,6 @@ title: 'Music'
 ---
 <center>
 <p>My favorite music.</p>
-<iframe src="https://lastfm-embed.vercel.app/api/currently-playing?user=ijustyn&lang=en&theme=default&borderSize=0&borderRadius=10&showTitle=true&urlColor=%23FF2828"></iframe>
 <p><br><br></p>
   
 <h3>Music</h3>
@@ -37,7 +36,7 @@ title: 'Music'
 </p>
 
 
-<p><br><br></p>
+<p><br><br><br></p>
 
 <section id="Music">
   <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" width="100%" min-width="50%" max-width="100%" height="450" style="overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/justyn-now/pl.u-9DLlbFmYkEW"></iframe>
@@ -46,6 +45,6 @@ title: 'Music'
 
 
 
-<p><br><br></p>
+<p><br></p>
 
 </center>
