@@ -52,17 +52,16 @@ title: 'Other Accounts'
 <p><br><br><br></p>
     
 <h3>
-  <a href="/music">Music
+  <a href="/music">Music &#8594;
   </a>
 </h3>
-
 <h4>
   <a href="/apple-music" target="_blank">
      @ijustyn &#8599;
   </a>
-  <br>Profile
+  <br>
+    Profile
 </h4>
-
 <p>
     A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
 </p>
