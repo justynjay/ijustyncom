@@ -25,7 +25,7 @@ title: 'Music'
 </h4>
   <p>I continuously update this playlist if you want an easy way to keep up!
 </p>
-<br>
+
 <h4>
   <a href="/heavy-rotation" target="_blank">
      Heavy Rotation &#8599;
