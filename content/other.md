@@ -40,10 +40,10 @@ title: 'Other Accounts'
   </span> @ijustyn@masto.ai &#8599;
   </a>
   <br>
-    Profile
+    Fediverse
 </h4>
 <p>
-    Alternate text account. 
+    Alternate social text account. 
 </p>
 
 <p><br><br><br></p>
@@ -57,7 +57,7 @@ title: 'Other Accounts'
      @ijustyn &#8599;
   </a>
   <br>
-    Profile
+    Music Profile
 </h4>
 <p>
     A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade. 
@@ -91,12 +91,12 @@ title: 'Other Accounts'
       </svg>
   </span> @ijustyn &#8599;
   </a>
+  <br><i>Viewer discretion advised.</i>
 </h4>
 
 <p>
   Microblog of my favorite things in pop culture. 
-  Mostly reblogs.<br>
-  <i>Viewer discretion advised.</i>
+  <br>Mostly reblogs.
 </p>
 
 <p><br><br><br></p>
