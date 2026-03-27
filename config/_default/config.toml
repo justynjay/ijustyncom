@@ -2,9 +2,9 @@ baseURL = "https://ijustyn.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Justyn McCabe"
-copyright = "[Created by Justyn © 2026](https://jjay.org/websites)"
-description = "All the projects and accounts of @ijustyn. Follow me… to the future!"
+title = "Justyn McCabe (@ijustyn)"
+copyright = "[by Justyn © 2026](https://jjay.org/websites)"
+description = "All the projects and accounts of Justyn McCabe. Follow me… to the future!"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
