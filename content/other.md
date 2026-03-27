@@ -29,7 +29,23 @@ title: 'Other Accounts'
 </p>
 <p><br><br><br></p>
 */</script>
-    
+
+<h3>
+  Mastodon
+</h3>
+<h4>
+  <a href = "https://masto.ai/@ijustyn" rel="me" target="_blank">
+    ✱ @ijustyn@masto.ai &#8599;
+  </a>
+  <br>
+    Profile
+</h4>
+<p>
+    Alternate text account. 
+</p>
+
+<p><br><br><br></p>
+
 <h3>
   <a href="/music">Music &#8594;
   </a>
