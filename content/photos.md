@@ -19,7 +19,7 @@ title: 'Photos &&#160;Videos'
       Blog &#8599;
     </a>
 </h4>
-<p><br>Follow via RSS or JSON.</p>
+<p>Follow via RSS or JSON.</p>
   
 <p><br><br><br></p>
   
@@ -36,7 +36,7 @@ title: 'Photos &&#160;Videos'
     </span> ijustyn &#8599;
   </a>
 </h4>
-<p><br>Follow via Meta.</p>
+<p>Follow via Meta.</p>
 
 <p><br><br></p>
 
