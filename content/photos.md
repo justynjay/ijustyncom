@@ -21,7 +21,7 @@ title: 'Photos &&#160;Videos'
 </h4>
 <p>Follow via RSS or JSON.</p>
 
-<p><br><br></p>
+<p></p>
 
 <div class="row">
   <div class="column">
