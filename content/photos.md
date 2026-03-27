@@ -21,8 +21,6 @@ title: 'Photos &&#160;Videos'
 </h4>
 <p>Follow via RSS or JSON.</p>
 
-<p></p>
-
 <div class="row">
   <div class="column">
     <a href="https://photos.ijustyn.com/i/cupd-pups-gcBvs-g360Z/">
