@@ -2,7 +2,7 @@
 title: 'Music'
 ---
 <center>
-<p>My favorite music.</p>
+<p>🤘</p>
 <p><br><br></p>
   
 <h3>Music</h3>
