@@ -91,7 +91,7 @@ title: 'Other Accounts'
       </svg>
   </span> @ijustyn &#8599;
   </a>
-  <br><i>Viewer discretion advised.</i>
+  <br><i>Viewer discretion advised</i>
 </h4>
 
 <p>
@@ -116,11 +116,11 @@ title: 'Other Accounts'
       </span> 
     Blog  &#8599;
   </a>
+  <br><i>Under development</i>
 </h4>
 
 <p>
-  Shot on my iPhone.<br>
-  <i>Under development.</i>
+  Shot on my iPhone.
 </p>
 
 <p><br><br><br></p>
