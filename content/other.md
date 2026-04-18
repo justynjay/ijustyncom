@@ -60,7 +60,7 @@ title: 'Other Accounts'
     Music
 </h4>
 <p>
-    A profile of carefully curated playlists that are a perfect encapsulation of my music tastes over more than a decade
+    Profile of carefully curated playlists that are a perfect encapsulation of my music tastes over more than a decade
 </p>
 
 <script>/*
