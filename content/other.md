@@ -2,7 +2,7 @@
 title: 'Other Accounts'
 ---
 <center>
-  
+<p>🔎</p>
 <p>
   You can also find me at these locations:
 </p>
