@@ -19,7 +19,7 @@ title: 'Photos &&#160;Videos'
       Blog &#8599;
     </a>
 </h4>
-<p>Follow via RSS or JSON.</p>
+<p>Follow via RSS or JSON</p>
 
 <div class="row">
   <div class="column">
@@ -54,7 +54,7 @@ title: 'Photos &&#160;Videos'
     </span> ijustyn &#8599;
   </a>
 </h4>
-<p>Follow via Meta.</p>
+<p>Follow via Meta</p>
 
 
 
