@@ -133,7 +133,7 @@ title: 'Other Accounts'
   <a href="/tip" target="_blank">
     $ Pay &#8599;
   </a>
-  <br>Via Square
+  <br>via Square
 </h4>
 <p>
 Supports Pay, Google Pay, and credit/debit cards. 
