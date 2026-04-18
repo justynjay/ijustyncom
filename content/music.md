@@ -13,7 +13,7 @@ title: 'Music'
   <br>Profile
 </h4>
 <p>
-  A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade.
+  A collection of carefully curated playlists that are a perfect encapsulation of my music tastes over the past decade
   </p>
 <p><br><br></p>
 <h3>Playlists</h3>
@@ -32,7 +32,7 @@ title: 'Music'
   </a>
   <br>Algorithmic
 </h4>
-  <p>Daily updated playlist by Apple Music of the songs I've got on repeat.
+  <p>Daily updated playlist by Apple Music of the songs I've got on repeat
 </p>
 
 
