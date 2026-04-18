@@ -43,7 +43,7 @@ title: 'Other Accounts'
     @masto.ai
 </h4>
 <p>
-    Alternate social text account on the fediverse. 
+    Alternate social text account on the fediverse
 </p>
 
 <p><br><br><br></p>
@@ -60,7 +60,7 @@ title: 'Other Accounts'
     Music
 </h4>
 <p>
-    A profile of carefully curated playlists that are a perfect encapsulation of my music tastes over more than a decade. 
+    A profile of carefully curated playlists that are a perfect encapsulation of my music tastes over more than a decade
 </p>
 
 <script>/*
@@ -95,8 +95,8 @@ title: 'Other Accounts'
 </h4>
 
 <p>
-  Microblog of my favorite things in pop culture. 
-  <br>Mostly reblogs.
+  Microblog of my favorite things in pop culture
+  <br>Mostly reblogs
 </p>
 
 <p><br><br><br></p>
@@ -120,7 +120,7 @@ title: 'Other Accounts'
 </h4>
 
 <p>
-  Shot on my iPhone.
+  Shot on my iPhone
 </p>
 
 <p><br><br><br></p>
@@ -136,7 +136,7 @@ title: 'Other Accounts'
   <br>via Square
 </h4>
 <p>
-Supports Pay, Google Pay, and credit/debit cards. 
+Supports Pay, Google Pay, and credit/debit cards
 </p>
 
 <p><br><br><br></p>
